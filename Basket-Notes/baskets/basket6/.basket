@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Capacity Markets</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffe6" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="366">
+   <note lastModification="2013-03-27T16:27:27" added="2013-03-27T16:27:10" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-03-27T16:27:49" added="2013-03-27T16:27:27" type="html">
+    <content>note37.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2013-03-27T16:28:24" added="2013-03-27T16:27:49" type="html">
+    <content>note38.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-03-28T14:04:38" added="2013-03-27T16:28:23" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-03-28T14:03:18" added="2013-03-28T14:02:59" type="html">
+    <content>note9.html</content>
+   </note>
+   <note lastModification="2013-03-28T14:08:30" added="2013-03-28T14:04:38" type="html">
+    <content>note10.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Niemen</name>
+  <icon>edit-table-cell-merge</icon>
+  <appearance backgroundColor="#ccffe6" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-06-29T22:00:58" added="2014-06-19T17:46:32" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-19T18:06:26" added="2014-06-19T17:46:42" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T10:00:33" added="2014-06-30T09:58:30" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-30T10:00:00" added="2014-06-19T18:06:26" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-29T22:00:59" added="2014-06-29T22:00:40" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-29T22:11:25" added="2014-06-29T22:00:59" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-29T22:16:12" added="2014-06-29T22:11:25" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-30T09:50:28" added="2014-06-30T09:50:02" type="html">
+    <content>note6.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-06-30T10:42:19" added="2014-06-30T09:50:28" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-06-19T18:41:01" added="2014-06-19T18:40:46" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-06-29T22:00:40" added="2014-06-19T18:41:01" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

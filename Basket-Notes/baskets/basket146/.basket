@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Optiumkrieg</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2016-04-29T18:37:23" added="2016-04-29T18:24:43" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2016-04-29T19:44:33" added="2016-04-29T18:24:54" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

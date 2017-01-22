@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>EU-Energiepolitik</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="482"/>
+  <group/>
+ </notes>
+</basket>

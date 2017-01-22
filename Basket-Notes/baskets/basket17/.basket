@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Security Of Supply</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-19T19:34:40" added="2009-12-27T20:40:28" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-19T19:34:58" added="2013-04-19T17:59:09" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-19T19:34:22" added="2009-12-27T20:40:42" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Network Industries</name>
+  <icon>retweet</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734"/>
+  <group/>
+ </notes>
+</basket>

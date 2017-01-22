@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Projektkursarbeit</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffe6" backgroundImage="alien-artifact.png" textColor="" />
+  <disposition mindMap="false" columnCount="2" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group width="491" />
+  <group/>
+ </notes>
+</basket>

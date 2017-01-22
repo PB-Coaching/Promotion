@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Krim</name>
+  <icon>games-config-background</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-05-19T19:06:47" added="2014-05-19T19:06:31" type="html">
+    <content>note59.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-05-19T19:13:44" added="2014-05-19T19:06:47" type="html">
+    <content>note60.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-05-19T19:15:49" added="2014-05-19T19:13:44" type="html">
+     <content>note61.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2014-05-19T19:18:49" added="2014-05-19T19:15:49" type="html">
+     <content>note62.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+   </group>
+   <note lastModification="2014-05-20T11:21:41" added="2014-05-20T11:13:04" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-21T11:15:28" added="2014-05-20T11:21:41" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-05-20T18:56:57" added="2014-05-20T18:50:40" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-05-21T15:33:51" added="2014-05-21T15:33:35" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-05-21T15:39:04" added="2014-05-21T15:33:51" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-21T15:46:42" added="2014-05-21T15:39:05" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-25T18:43:48" added="2014-06-25T18:39:14" type="html">
+    <content>note31.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-25T18:45:13" added="2014-06-25T18:43:48" type="html">
+    <content>note32.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-25T18:48:50" added="2014-06-25T18:44:12" type="html">
+    <content>note33.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-05-21T11:06:37" added="2014-05-21T11:06:14" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-05-21T11:10:15" added="2014-05-21T11:06:37" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-21T11:11:56" added="2014-05-21T11:10:15" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-05-21T11:13:41" added="2014-05-21T11:11:05" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-05-21T11:16:19" added="2014-05-21T11:13:41" type="html">
+    <content>note8.html</content>
+    <tags>highlight</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-05-21T18:59:44" added="2014-05-21T18:48:49" type="html">
+     <content>note12.html</content>
+     <tags>information</tags>
+    </note>
+    <note lastModification="2014-05-21T19:01:19" added="2014-05-21T18:59:44" type="html">
+     <content>note13.html</content>
+     <tags>information</tags>
+    </note>
+    <note lastModification="2014-05-21T19:01:49" added="2014-05-21T19:01:19" type="html">
+     <content>note14.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2014-05-21T19:05:54" added="2014-05-21T19:02:45" type="html">
+     <content>note15.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2014-05-21T19:07:49" added="2014-05-21T19:05:54" type="html">
+     <content>note16.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2014-05-21T19:24:49" added="2014-05-21T19:07:49" type="html">
+     <content>note17.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <group folded="false">
+     <note lastModification="2014-05-21T19:26:43" added="2014-05-21T19:24:49" type="html">
+      <content>note18.html</content>
+      <tags>highlight</tags>
+     </note>
+     <note lastModification="2014-05-23T09:35:54" added="2014-05-23T09:32:21" type="html">
+      <content>note19.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2014-05-23T10:01:45" added="2014-05-23T09:35:54" type="html">
+      <content>note20.html</content>
+      <tags>tag_state_15</tags>
+     </note>
+     <note lastModification="2014-05-23T09:42:09" added="2014-05-23T09:37:56" type="html">
+      <content>note21.html</content>
+      <tags>tag_state_15</tags>
+     </note>
+     <note lastModification="2014-05-23T09:44:27" added="2014-05-23T09:42:09" type="html">
+      <content>note22.html</content>
+      <tags>tag_state_8</tags>
+     </note>
+     <note lastModification="2014-05-23T09:57:09" added="2014-05-23T09:44:27" type="html">
+      <content>note23.html</content>
+      <tags>tag_state_2;tag_state_8;tag_state_7;tag_state_1;tag_state_15</tags>
+     </note>
+     <note lastModification="2014-05-23T10:01:31" added="2014-05-23T09:57:09" type="html">
+      <content>note24.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2014-05-23T11:02:12" added="2014-05-23T10:01:31" type="html">
+      <content>note25.html</content>
+      <tags>highlight</tags>
+     </note>
+     <note lastModification="2014-05-23T11:04:38" added="2014-05-23T11:02:12" type="html">
+      <content>note26.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+    </group>
+   </group>
+   <group folded="false">
+    <note lastModification="2014-05-24T12:10:47" added="2014-05-24T12:09:47" type="html">
+     <content>note27.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2014-05-24T12:14:32" added="2014-05-24T12:10:47" type="html">
+     <content>note28.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2014-05-24T12:17:10" added="2014-05-24T12:14:32" type="html">
+     <content>note29.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2014-05-24T12:29:54" added="2014-05-24T12:17:10" type="html">
+     <content>note30.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+   </group>
+   <note lastModification="2014-05-24T13:05:50" added="2014-05-24T12:42:39" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-24T13:08:51" added="2014-05-24T13:05:50" type="html">
+    <content>note41.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-05-24T13:10:14" added="2014-05-24T13:08:51" type="html">
+    <content>note42.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-05-24T13:13:43" added="2014-05-24T13:10:14" type="html">
+    <content>note43.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-05-24T13:15:05" added="2014-05-24T13:13:43" type="html">
+    <content>note44.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-05-24T13:16:10" added="2014-05-24T13:15:05" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-05-24T13:24:35" added="2014-05-24T13:16:10" type="html">
+    <content>note46.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

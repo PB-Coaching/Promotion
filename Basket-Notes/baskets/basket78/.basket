@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Versorgungssicherheit</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="694">
+   <note lastModification="2014-02-04T16:16:50" added="2013-12-11T15:04:13" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-02-24T14:06:05" added="2013-12-11T15:04:32" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-02-04T16:16:35" added="2013-12-11T19:12:27" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2013-12-11T19:14:21" added="2013-12-11T19:14:20" type="html">
+    <content>note2.html</content>
+   </note>
+   <note lastModification="2014-01-06T19:54:03" added="2014-01-06T19:53:59" type="html">
+    <content>note13.html</content>
+   </note>
+   <note lastModification="2014-02-04T16:17:02" added="2014-02-04T16:16:50" type="html">
+    <content>note12.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

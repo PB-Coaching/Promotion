@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Politikfeldanalyse</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="rounds-line.png" textColor="" />
+  <disposition mindMap="false" columnCount="2" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group width="491" >
+   <note lastModification="2009-11-19T14:23:56" type="html" added="2009-11-19T14:23:30" >
+    <content>note1.html</content>
+    <tags>tag_state_4</tags>
+   </note>
+   <note lastModification="2009-11-19T15:02:51" type="html" added="2009-11-19T14:23:56" >
+    <content>note2.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-19T15:49:55" type="html" added="2009-11-19T14:55:09" >
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2009-12-10T14:33:46" type="html" added="2009-12-10T14:33:03" >
+    <content>note4.html</content>
+    <tags>tag_state_4</tags>
+   </note>
+   <note lastModification="2009-12-10T14:34:12" type="html" added="2009-12-10T14:33:46" >
+    <content>note5.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-12-10T14:40:17" type="html" added="2009-12-10T14:34:12" >
+    <content>note6.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2009-12-10T14:47:46" type="html" added="2009-12-10T14:40:17" >
+    <content>note7.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-12-10T14:44:49" type="html" added="2009-12-10T14:40:31" >
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2009-12-10T14:49:44" type="html" added="2009-12-10T14:47:46" >
+    <content>note9.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2009-12-10T15:25:54" type="html" added="2009-12-10T14:49:44" >
+    <content>note10.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-12-10T14:52:12" type="html" added="2009-12-10T14:51:49" >
+    <content>note11.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2009-12-10T15:50:04" type="html" added="2009-12-10T14:52:12" >
+    <content>note12.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

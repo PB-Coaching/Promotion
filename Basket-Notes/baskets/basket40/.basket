@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Eines Tages</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#efefef" backgroundImage="gtd-someday.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2011-11-19T19:01:37" added="2007-06-07T22:08:57" type="html">
+    <content>note12.html</content>
+    <tags>highlight</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Beispiele</name>
+  <icon>gift</icon>
+  <appearance backgroundColor="#ccffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-05-15T10:55:19" added="2014-05-15T10:54:25" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-05-15T11:08:38" added="2014-05-15T10:54:48" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-15T11:49:42" added="2014-05-15T11:08:38" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-05-15T11:56:21" added="2014-05-15T11:49:42" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-05-15T18:37:19" added="2014-05-15T18:36:12" type="html">
+     <content>note24.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2014-05-15T18:40:08" added="2014-05-15T18:37:19" type="html">
+     <content>note25.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2014-05-15T18:42:28" added="2014-05-15T18:40:08" type="html">
+     <content>note26.html</content>
+     <tags>highlight</tags>
+    </note>
+    <note lastModification="2014-05-15T18:43:45" added="2014-05-15T18:42:33" type="html">
+     <content>note27.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+   </group>
+  </group>
+  <group/>
+ </notes>
+</basket>

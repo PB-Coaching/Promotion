@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Theorie</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <group folded="false">
+    <note lastModification="2012-02-07T09:23:20" added="2011-11-22T18:51:14" type="html">
+     <content>note10.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2012-02-07T12:47:17" added="2011-11-22T18:51:37" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2012-02-07T12:47:54" added="2012-02-07T12:47:17" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_11</tags>
+    </note>
+    <note lastModification="2012-02-07T14:24:54" added="2012-02-07T12:48:00" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Kompetenzverteilung</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2012-01-31T13:15:16" added="2010-07-11T19:03:34" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2012-01-31T13:16:03" added="2010-07-11T19:04:56" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2012-01-31T13:15:50" added="2010-09-12T19:10:33" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

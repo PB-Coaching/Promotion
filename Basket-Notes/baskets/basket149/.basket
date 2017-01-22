@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Finanzverwaltung</name>
+  <icon>align-horizontal-center</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2015-06-07T18:19:59" added="2015-06-07T17:13:57" type="html">
+    <content>note10.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

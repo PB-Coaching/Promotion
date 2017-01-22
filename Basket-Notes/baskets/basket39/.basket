@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Wartend</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffe6" backgroundImage="gtd-waiting-for.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2011-11-19T19:01:46" added="2007-06-07T22:08:57" type="html">
+    <content>note12.html</content>
+    <tags>highlight</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

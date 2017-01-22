@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Delegation (Theory &amp; Concepts)</name>
+  <icon>bookmarks-organize</icon>
+  <appearance backgroundColor="#b3925d" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2012-02-05T12:50:10" added="2012-02-05T12:44:19" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2012-02-05T13:18:32" added="2012-02-05T12:50:10" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2012-02-11T14:32:55" added="2012-02-11T14:29:21" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

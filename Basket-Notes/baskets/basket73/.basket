@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Diplomarbeit</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#99ccff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="470">
+   <note lastModification="2014-01-22T17:47:21" added="2013-12-11T19:23:47" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-01-22T17:47:26" added="2014-01-08T16:56:16" type="html">
+    <content>note2-2.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-01-22T17:47:31" added="2013-12-11T19:24:05" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-01-22T17:47:39" added="2013-12-12T15:25:52" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-01-22T17:47:42" added="2014-01-22T17:47:39" type="html">
+    <content>note25.html</content>
+   </note>
+  </group>
+  <group>
+   <group folded="false">
+    <note lastModification="2014-01-08T16:56:16" added="2014-01-08T16:55:49" type="html">
+     <content>note1-2.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2014-01-22T17:49:26" added="2014-01-08T16:58:00" type="html">
+     <content>note3-2.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2014-01-22T17:49:14" added="2014-01-08T16:59:20" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2014-01-22T17:49:09" added="2014-01-09T14:26:19" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2014-01-22T17:49:04" added="2014-01-09T15:57:15" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

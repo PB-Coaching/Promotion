@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Events - Südosten</name>
+  <icon>black-white</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-05-31T12:32:48" added="2014-05-31T12:32:20" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-05-31T12:44:57" added="2014-05-31T12:32:48" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T15:45:10" added="2014-06-25T15:44:45" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-25T15:49:40" added="2014-06-25T15:45:10" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T15:51:16" added="2014-06-25T15:51:11" type="html">
+    <content>note3.html</content>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-05-31T12:45:14" added="2014-05-31T12:44:57" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-05-31T13:01:55" added="2014-05-31T12:45:14" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-31T13:04:28" added="2014-05-31T13:01:55" type="html">
+    <content>note27.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-05-31T15:30:15" added="2014-05-31T13:04:28" type="html">
+    <content>note28.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

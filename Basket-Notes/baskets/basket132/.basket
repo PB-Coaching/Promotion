@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Events - Energiepolitik</name>
+  <icon>office-chart-pie</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-22T18:04:46" added="2014-06-22T18:04:24" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-22T18:09:59" added="2014-06-22T18:04:46" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-22T18:11:30" added="2014-06-22T18:09:59" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-22T18:13:25" added="2014-06-22T18:11:30" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-06-22T18:15:31" added="2014-06-22T18:13:25" type="html">
+     <content>note5.html</content>
+     <tags>information</tags>
+    </note>
+    <note lastModification="2014-06-22T18:16:39" added="2014-06-22T18:15:31" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <note lastModification="2014-06-22T19:27:21" added="2014-06-22T19:16:01" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>European Parliament</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="rounds-line.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2012-02-11T14:35:00" added="2012-02-11T14:34:45" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2012-02-11T15:04:20" added="2012-02-11T14:43:04" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

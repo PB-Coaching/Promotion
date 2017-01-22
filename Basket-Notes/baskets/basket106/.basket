@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Energiepolitik</name>
+  <icon>newfunction</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-04-07T15:35:44" added="2014-03-24T21:44:01" type="html">
+    <content>note19.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-04-07T15:35:37" added="2014-03-24T21:44:19" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-04-07T15:35:33" added="2014-03-24T21:46:34" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-04-07T15:35:28" added="2014-03-25T11:16:52" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-04-27T18:06:51" added="2014-03-25T11:19:18" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-04-07T15:35:09" added="2014-03-25T11:39:55" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2014-04-07T15:35:04" added="2014-03-25T11:41:30" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-04-07T15:34:54" added="2014-03-25T20:20:04" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-04-07T15:35:46" added="2014-04-07T15:35:44" type="html">
+    <content>note6.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

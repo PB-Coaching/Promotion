@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>European Integration</name>
+  <icon>network-workgroup</icon>
+  <appearance backgroundColor="#e8b7d7" backgroundImage="alien-artifact.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-13T18:20:13" added="2012-02-05T13:58:02" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-14T18:15:47" added="2012-02-05T13:58:32" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-15T10:24:03" added="2012-02-05T14:42:33" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2012-02-05T15:50:44" added="2012-02-05T15:20:08" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2012-02-05T15:50:56" added="2012-02-05T15:23:50" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2012-02-05T15:53:37" added="2012-02-05T15:48:05" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2012-02-05T15:55:23" added="2012-02-05T15:41:07" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

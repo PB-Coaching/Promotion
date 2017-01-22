@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Supranationalismus</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2012-01-31T13:12:31" added="2010-07-17T20:07:13" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

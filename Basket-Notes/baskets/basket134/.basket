@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Region Kaliningrad</name>
+  <icon>edit-table-cell-merge</icon>
+  <appearance backgroundColor="#ccffe6" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-23T12:01:40" added="2014-06-23T12:01:08" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-23T12:03:37" added="2014-06-23T12:01:40" type="html">
+    <content>note27.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T12:05:41" added="2014-06-23T12:04:31" type="html">
+    <content>note29.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-23T12:04:31" added="2014-06-23T12:03:37" type="html">
+    <content>note28.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-23T12:08:33" added="2014-06-23T12:05:41" type="html">
+    <content>note30.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2014-06-23T12:09:40" added="2014-06-23T12:08:33" type="html">
+    <content>note31.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T12:11:26" added="2014-06-23T12:09:40" type="html">
+    <content>note32.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-23T12:14:24" added="2014-06-23T12:11:26" type="html">
+    <content>note33.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-23T12:16:16" added="2014-06-23T12:14:24" type="html">
+    <content>note34.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-23T12:19:24" added="2014-06-23T12:16:16" type="html">
+    <content>note35.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2014-06-23T12:48:32" added="2014-06-23T12:18:27" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-23T12:51:03" added="2014-06-23T12:48:32" type="html">
+    <content>note37.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-06-23T12:52:35" added="2014-06-23T12:51:03" type="html">
+    <content>note38.html</content>
+    <tags>funny</tags>
+   </note>
+   <note lastModification="2014-06-23T14:35:07" added="2014-06-23T12:52:35" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-23T18:34:41" added="2014-06-23T18:25:40" type="html">
+    <content>note74.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T18:39:58" added="2014-06-23T18:34:41" type="html">
+    <content>note75.html</content>
+    <tags>highlight</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-06-23T18:40:08" added="2014-06-23T18:39:58" type="html">
+    <content>note76.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-23T18:45:24" added="2014-06-23T18:40:08" type="html">
+    <content>note77.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T19:41:01" added="2014-06-23T18:45:24" type="html">
+    <content>note78.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-23T20:08:34" added="2014-06-23T19:41:01" type="html">
+    <content>note79.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

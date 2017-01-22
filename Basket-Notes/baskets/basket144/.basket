@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Literatur</name>
+  <icon>address-book-new</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-11-21T13:42:49" added="2014-11-21T13:42:39" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-11-21T13:47:15" added="2014-11-21T13:42:49" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-11-21T13:53:31" added="2014-11-21T13:46:56" type="html">
+    <content>note3.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

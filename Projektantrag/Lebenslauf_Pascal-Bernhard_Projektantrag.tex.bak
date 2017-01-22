@@ -1,0 +1,265 @@
+\documentclass[11pt,a4paper,titlepage]{moderncv}
+
+% moderncv themes
+\moderncvtheme[blue]{casual}                 % optional argument are 'blue' (default), 'orange', 'red', 'green', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+%\moderncvtheme[green]{classic}                % idem
+
+% character encoding
+\usepackage[english,ngerman]{babel}
+\usepackage[ansinew]{inputenc}                   % replace by the encoding you are using
+
+\renewcommand{\familydefault}{\sfdefault}
+
+
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\usepackage{graphicx}
+%\setlength{\hintscolumnwidth}{3cm}						% if you want to change the width of the column with the dates
+%\AtBeginDocument{\setlength{\maketitlenamewidth}{6cm}}  % only for the classic theme, if you want to change the width of your name placeholder (to leave more space for your address details
+\AtBeginDocument{\recomputelengths}                     % required when changes are made to page layout lengths
+
+% Gleiche Schriftart für Hyperlinks
+\urlstyle{same}
+
+% Farbe für URL-Links definieren
+\definecolor{CV-Blue}{RGB}{56,115,178}
+
+%----------------------------------------------------------------------------------
+%            Kontaktdaten
+%----------------------------------------------------------------------------------
+% VORNAME
+\firstname{Pascal}
+% NACHNAME
+\familyname{Bernhard}
+%TITEL (optional, ggf. einfach die Zeile löschen!)
+\title{Lebenslauf}    
+%ADRESSE  (optional, ggf. einfach die Zeile löschen!)
+\address{Schwalbacher Straße 7}{12161 Berlin}
+%HANDYNUMMER  (optional, ggf. einfach die Zeile löschen!)
+\mobile{+49 162 / 32 39 557} 
+%FESTNETZNUMMER  (optional, ggf. einfach die Zeile löschen!)
+%\phone{+49 30 / 32 66 58 00}
+%EMAIL-ADRESSE  (optional, ggf. einfach die Zeile löschen!)
+\email{pbcoaching@rppr.de} 
+%HOMEPAGE  (optional, ggf. einfach die Zeile löschen!)
+%\homepage{www.secunergy.com}
+%FOTO  (optional, ggf. einfach die Zeile löschen!)
+%  64pt = Höhe des Bildes, 'picture' = Name des Bildes
+\photo[240pt]{SW.jpg}
+
+
+%Spaltenbreite von \cvline ändern:
+\renewcommand*{\cvlanguage}[3]{%
+\cvline{#1}{\begin{minipage}[t]{.225\maincolumnwidth}\textbf{#2}\end{minipage}%
+\hfill%
+\begin{minipage}[t]{.725\maincolumnwidth}\raggedleft\footnotesize\it shape #3\end{minipage}%
+}
+}
+
+%Spaltenbreite von \cvline ändern - zweiter Versuch
+\setlength{\hintscolumnwidth}{3.5cm} 
+
+
+%----------------------------------------------------------------------------------
+%            Inhalt
+%----------------------------------------------------------------------------------
+\begin{document}
+
+
+    \vspace*{\fill}
+    
+      \maketitle
+      \section{Zu meiner Person}
+	\cvline{Hochschulabschluss}{Diplom-Politikwissenschaft (FU Berlin) \& MBA 'Finance et Stratégie' (Science Po Paris)}
+	\cvline{Auslandserfahrung} {USA (2 Jahre) \& Frankreich (4 Jahre)}
+	\cvline{Sprachkenntnisse}{Englisch \& Französisch (verhandlungssicher); Russisch (erweiterte Kenntnisse)}
+
+
+    \vspace*{\fill}
+
+
+
+\newpage
+
+
+
+\section{Beruflicher Werdegang}
+
+
+\cventry{ab 6/2016}{Systemischer Coach}{Busco Institut Lüneburg}{}{}{Abgeschlossene Ausbildung zum Systemischen Coach nach DCV e.V. %\newline{}%
+	\begin{itemize}%
+		\item Systemisches Coaching auf Basis positiver Psychologie
+		\item Transaktionsanalyse nach Berne
+		\item Präventionsmaßnahmen gegen Burnout
+		\item Auftstellungsarbeit und Herkunftsfamilie
+		\item Durchführung von Teamentwicklung in Unternehmen
+	\end{itemize}}
+
+
+\bigskip
+
+
+\cventry{seit 8/2014}{Doktorand}{Freie Universität Berlin}{}{}{Promotion. %\newline{}%
+	\begin{itemize}%
+		\item Analyse und Vergleich europäischer Energiemärkte
+		\item Bewertung der Versorgungssicherheit der Europäischen Union
+		\item Folgeabschätzung der deutschen Energiewende für die europäische Energiepolitik
+		\item Entwurf möglicher Szenarien zur politischen Entwicklung in Osteuropa und Russland
+		\item Studie nationaler Energiepolitik und Folgen für die Struktur von Energiemärkten
+		\item Zusammenspiel nationaler Politik mit europäischen Institutionen \& Entscheidungsprozessen
+	\end{itemize}}
+
+
+\bigskip
+
+\cventry{seit 6/2013}{Coach}{Freie Universität Berlin}{}{}{Coaching von Studenten für den Hochschulabschluss. %\newline{}%
+\begin{itemize}%
+\item Entwicklung wissenschaftlicher Fragestellungen für Abschlussarbeiten
+\item Unterstützung für die Konzeption passender Forschungsdesigns
+\item Coaching zu Selbstmotivation und strukturierter Arbeitsweise
+\item Hilfestellung bei wissenschaftlicher Arbeitsmethodik
+\end{itemize}}
+
+
+\bigskip
+
+
+\cventry{6/2011 - 5/2013}{Werkstudent}{Unternehmensberatung SCI Verkehr GmbH}{Berlin}{}{Marktanalysen \& Begleitung von Ausschreibungen. %\newline{}%
+\begin{itemize}%
+\item Analysen politischer Entscheidungen und ihrer Konsequenzen für den ÖPNV-Sektor
+\item Mitarbeit an Betreiber- und Marktstudien sowie Wettbewerberanalysen zur strategischen Ausrichtung der Kunden
+\item Beratung zur Unternehmenspositionierung in Ausschreibungsverfahren
+\item Pressespiegel fremdsprachiger Online- und Printmedien und Mitarbeit an Branchennewsletter
+\end{itemize}}
+
+\bigskip
+
+\cventry{5/2009 - 8/2010}{Assistant Policy Advisor Europe}{American Chamber of Commerce}{Paris}{}{Marktanalysen \& Kundenbetreuung. %\newline{}%
+\begin{itemize}%
+\item Eigenständige Erstellung von Marktstudien zur Privatisierung von Infrastruktur \& Utilities in Frankreich
+\item Analyse politischer und rechtlicher Rahmenbedingungen für Investitionsentscheidungen
+\item Unterstützung beim Aufbau internationaler Joint Ventures
+\item Pflege von Kontakten zu Entscheidungsträgern in Politik und Behörden
+\end{itemize}}
+
+\bigskip
+
+\cventry{7/2008 - 4/2009}{Praktikant}{American Chamber of Commerce}{Paris}{}{Marktanalysen \& Kundenbetreuung. %\newline{}%
+\begin{itemize}%
+\item Mitarbeit an Analysen des französischen Infrastrukturmarktes
+\item Öffentlichkeitsarbeit
+	\begin{itemize}
+	\item Redaktion von Newsletter
+	\item Herausgabe von Pressemitteilung zu relevanten politischen Themen
+	\end{itemize} 
+\item Unterstützung bei Kundenpräsentationen
+\item Vorbereitung und Umsetzung von Konferenzen
+\end{itemize}}
+
+\bigskip
+
+\cventry{3/2005 - 9/2005}{Praktikum}{Wissenschaftszentrum für Sozialforschung Berlin (WZB)}{Berlin}{}{Unterstützung bei Datenrecherche \& Tutorium für Studenten. %\newline{}%
+\begin{itemize}
+\item Recherchen für Studie des Rats der Fünf Wirtschaftsweisen zu Arbeitsmarktreformen
+\item Aufbereitung von Wirtschaftsdaten
+\item Lehrtätigkeit durch Tutorien für Studenten als Begleitung von Lehrveranstaltungen
+\end{itemize}}
+
+\bigskip
+
+\cventry{8/2002 - 7/2003}{Assistenz der Geschäftsführung}{Shaver Construction, Inc.}{Reno, NV (USA)}{}{Kaufmännische Tätigkeiten. %\newline{}%
+\begin{itemize}
+\item Unterstützung der Geschäftsführung in Terminplanung und Koordination von Mitarbeitern
+\item schriftliche und telefonische Geschäftskorrespondenz mit Kunden und Behörden
+\item Planung und Organisation von Teammeetings
+\item Vorbereitung von Kundenpräsentationen
+\end{itemize}}
+
+
+
+\section{Studium}
+
+\subsection{Hauptstudium "`Politikwissenschaft"'}
+\cvline{ab 10/2010 - 6/2014} {an der FU Berlin}
+\cvline{13.06.2014}{Diplom}
+
+
+\subsection{Masterstudium "`MBA Finance et Stratégie"'}
+\cvline{9/2007 - 8/2009}{an Science Po Paris}
+\cvline{03.08.2009}{Master of Business Adminstration}
+
+
+\subsection{Hauptstudium "`Politikwissenschaft"'}
+\cvline{10/2006 - 8/2007}{an der FU Berlin}
+
+
+\subsection{Grundstudium "`Politikwissenschaft"'}
+\cvline{10/2003 - 9/2005}{an der FU Berlin}
+\cvline{10.06.2005}{Vordiplom}
+
+
+
+\section{Promotion}
+\cvitem{Thema}{\emph{Auswirkungen der Energiewende auf die Energiebeziehungen mit Russland}}
+\cvitem{Gutachter}{Prof. Dr. Miranda Schreurs \& Prof. Dr. Manfred Kerner}
+\cvitem{Inhalt}{Langfristige Auswirkungen des verringerten Bedarfs an Gasimporten in Folge der Energiewende in mehreren Staaten der Europäischen Union. Welche Veränderungen in den Positionen der Energieaußenpolitik wie auch dem Verhandlungsgewicht bringt die zu erwartetende geringere Abhängigkeit von Energieeinfuhren aus Russland mit sich? Welche neue Optionen und Richtungsänderungen in der EU-Nachbarschaftspolitik im post-sowjetischen Raum ergeben sich aus der neuen Versorgungssituation Europas?}
+
+
+\section{Diplomarbeit}
+\cvitem{Thema}{\emph{Energie-Versorgungssicherheit der Baltischen Staaten}}
+\cvitem{Inhalt}{Die Umsetzung des 3. Liberalisierungspakets der EU zum Gasbinnenmarkt in Litauen und Lettland: Weshalb wurden in den beiden baltischen Ländern unterschiedliche Unbundling-Modelle gewählt zur Entflechtung der vertikalen Besitzstrukturen aus dem Gasmarkt? Hat die bestehende Struktur der Gasmärkte die politische Entscheidung beeinflusst? Welche Rolle spielte Gazproms Position auf dem Gasmarkt und das Verhältnis zu Russland beim Unbundling?}
+\cvitem{Note}{1,0}
+\cvitem{Online verfügbar}{\textcolor{CV-Blue}{\url{http://t1p.de/uqo9}}}
+
+
+
+\section{Thèse du Master}
+\cvitem{Thema}{\emph{Asymmétries d'informations dans le secteur du capital de risque: Comparaison entre stratégie de porte-feuille et stratégie d'investissement}}
+\cvitem{Inhalt}{Informationsasymmetrien als strukturelles Problem der Venture Capital-Branche: Wie können Risikokapitalgeber die Informationsungleichheit gegenüber den Zielunternehmen reduzieren bzw. die entstehenden Risiken managen? Bietet eine Portfoliostrategie ex ante effektivere Mittel zur Risikominimierung oder können Investoren ex post durch aktive Beteiligung im Management in Start-Ups mehr Erfolg erzielen? Überwiegt die höhere Erfolgsquote durch verstärktes Engagement die im Gegenzug enstehenden Agency-Kosten für Venture Capital - Geber?}
+\cvitem{Note}{1,3}
+
+
+\bigskip
+
+
+\section{Ehrenamtliches Engagement}
+
+
+\cventry{seit 4/2015}{Mitarbeit}{Projekt 'Integration durch Sport' Rudergesellschaft Wiking Berlin e.V.}{Berlin}{}{
+\begin{itemize}
+\item Konzeption Veranstaltungen und Programmen für die Integration von Jugendlichen und sozial benachteiligter Menschen durch Sport
+\item Identifikation von Partnerschaften zur Finanzierung
+\item \textsl{Ziel des Projektes:} Chancengleichheit für Menschen aus benachteiligten sozialen Verhältnissen
+\end{itemize}}
+
+\cventry{1/2012--1/2014}{Vorstandsmitglied}{Berlin Linux User Group e.V. (BeLUG)}{Berlin}{}{
+\begin{itemize}
+\item Mitglied im Vorstand der größten Linux User Group Deutschlands (1/2012 - 1/2014)
+\item Koordinierung der Aktivitäten mit anderen Vereinen und Organisationen im Bereich Open Source
+\item Vorbereitung und Durchführung von Workshops für Schüler für das bessere Verständnis von Informationstechnologien und Medienkompetenz
+\item Organisation von 'Linux Install Partys' an Universitäten, um Studenten über die Einstiegshürden eines alternativen Betriebssystem zu helfen 
+\end{itemize}}
+
+\bigskip
+
+
+\section{Sprachkenntnisse}
+\cvline{Deutsch}{Muttersprache}
+\cvline{Englisch}{Verhandlungssicher in Wort und Schrift}
+\cvline{Französisch}{Verhandlungssicher in Wort und Schrift}
+\cvline{Russisch}{Erweiterte Grundkenntnisse}
+
+\bigskip
+
+\section{Schulbildung}
+\cvline{8/1992 - 7/2001}{Gymnasium Freiburg im Breisgau}
+\cvline{8/1996 - 7/1997}{Reno High School, Reno, Nevada USA}
+\cvline{8/1988 - 7/1992}{Grundschule Freiburg im Breisgau}
+
+
+
+\end{document}
+
+
+%% end of file `Lebenslauf_Template.tex'.

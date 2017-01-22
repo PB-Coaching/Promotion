@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Auslösende Faktoren</name>
+  <icon>application-exit2</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-24T13:29:09" added="2014-06-24T13:28:36" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-06-24T13:29:59" added="2014-06-24T13:29:09" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T16:30:23" added="2014-06-24T13:29:59" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-24T13:48:49" added="2014-06-24T13:43:54" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-24T14:47:48" added="2014-06-24T13:48:49" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-06-25T16:31:27" added="2014-06-25T16:30:23" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2014-06-25T16:33:28" added="2014-06-25T16:31:27" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+    <note lastModification="2014-06-25T16:35:11" added="2014-06-25T16:33:28" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2014-06-25T16:35:43" added="2014-06-25T16:35:11" type="html">
+     <content>note9.html</content>
+     <tags>highlight</tags>
+    </note>
+   </group>
+  </group>
+  <group/>
+ </notes>
+</basket>

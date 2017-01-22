@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Willkommen</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="" backgroundImage="strings.png" textColor=""/>
+  <disposition free="true" mindMap="false" columnCount="0"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <note width="396" x="19" lastModification="2007-01-27T12:46:36" y="172" added="2005-11-05T17:20:41" type="html">
+   <content>item6.txt</content>
+  </note>
+  <note width="223" x="455" lastModification="2007-01-27T12:38:40" y="208" added="2005-11-05T17:20:41" type="html">
+   <content>item14.html</content>
+   <tags>highlight;information</tags>
+  </note>
+  <note width="163" x="20" lastModification="2006-11-20T14:17:24" y="33" added="2006-11-20T14:17:24" type="image">
+   <content>note1.png</content>
+  </note>
+  <note width="500" x="0" lastModification="2007-01-27T12:38:22" y="0" added="2005-11-05T17:20:41" type="html">
+   <content>item11.txt</content>
+   <tags>highlight;information</tags>
+  </note>
+  <note width="655" x="12" lastModification="2007-01-27T12:42:16" y="301" added="2005-11-05T17:20:41" type="html">
+   <content>item3.txt</content>
+  </note>
+  <note width="407" x="13" lastModification="2007-01-27T12:42:31" y="407" added="2005-11-05T17:20:41" type="html">
+   <content>item13.html</content>
+   <tags>highlight;information</tags>
+  </note>
+  <note width="205" x="456" lastModification="2007-01-13T17:16:01" y="428" added="2005-11-05T17:20:41" type="html">
+   <content>item4.txt</content>
+  </note>
+  <group width="360" folded="false" x="533" y="15">
+   <note lastModification="2007-01-27T12:38:38" added="2005-11-05T17:20:41" type="html">
+    <content>item9.txt</content>
+   </note>
+   <note lastModification="2007-01-27T12:48:30" added="2005-11-05T17:20:41" type="html">
+    <content>item7.txt</content>
+   </note>
+  </group>
+ </notes>
+</basket>

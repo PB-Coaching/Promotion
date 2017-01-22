@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>European Commission</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <group folded="false">
+    <note lastModification="2013-04-20T19:07:53" added="2013-04-20T19:07:21" type="html">
+     <content>note14.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-04-20T19:10:57" added="2013-04-20T19:07:53" type="html">
+     <content>note15.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-20T19:26:30" added="2013-04-20T19:11:04" type="html">
+    <content>note16.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

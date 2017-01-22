@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Nationale Energiestrategie</name>
+  <icon>redhat-internet</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <group folded="false">
+    <note lastModification="2014-02-25T20:02:57" added="2013-12-02T16:41:17" type="html">
+     <content>note1.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2014-04-06T18:46:53" added="2013-12-02T16:41:38" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-27T18:11:39" added="2013-12-02T16:44:18" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_1;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-25T20:03:22" added="2013-12-02T16:47:39" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_1;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-25T20:03:27" added="2013-12-02T16:57:36" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_1;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-27T19:40:52" added="2013-12-02T16:59:01" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-25T20:03:38" added="2013-12-02T17:00:39" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-25T20:03:45" added="2013-12-02T19:43:14" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <group folded="false">
+     <note lastModification="2014-03-14T21:09:50" added="2013-12-02T19:43:18" type="html">
+      <content>note9.html</content>
+      <tags>tag_state_7</tags>
+     </note>
+     <note lastModification="2014-02-25T20:04:03" added="2013-12-02T19:49:16" type="html">
+      <content>note10.html</content>
+      <tags>tag_state_2;todo_done</tags>
+     </note>
+     <note lastModification="2014-02-25T20:04:12" added="2013-12-02T19:51:48" type="html">
+      <content>note11.html</content>
+      <tags>tag_state_2;todo_done</tags>
+     </note>
+     <note lastModification="2014-02-25T20:04:17" added="2013-12-02T19:56:38" type="html">
+      <content>note12.html</content>
+      <tags>tag_state_2;todo_done</tags>
+     </note>
+     <note lastModification="2014-02-25T20:04:24" added="2013-12-02T19:57:55" type="html">
+      <content>note13.html</content>
+      <tags>highlight;todo_done</tags>
+     </note>
+    </group>
+   </group>
+   <note lastModification="2014-03-01T18:32:30" added="2013-12-02T20:02:25" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-25T20:04:33" added="2013-12-02T20:04:57" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-02-27T20:35:00" added="2013-12-02T20:24:06" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-02-25T20:04:50" added="2013-12-02T21:01:22" type="html">
+    <content>note19.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-02-25T20:04:56" added="2013-12-02T21:01:23" type="html">
+     <content>note20.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2014-02-25T20:05:12" added="2013-12-02T21:15:01" type="html">
+     <content>note21.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2014-02-25T20:05:08" added="2013-12-02T21:19:56" type="html">
+     <content>note22.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

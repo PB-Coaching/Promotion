@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Nächste Aufgaben</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6e6" backgroundImage="gtd-next-actions.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2011-11-19T08:57:19" added="2007-06-07T22:08:57" type="html">
+    <content>note12.html</content>
+    <tags>highlight</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2011-11-19T08:59:43" added="2007-06-08T16:09:07" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2011-12-16T10:05:34" added="2011-11-19T22:17:24" type="html">
+     <content>note11.html</content>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2011-11-19T18:59:56" added="2007-06-08T16:09:08" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2011-12-16T10:08:17" added="2011-11-19T08:57:44" type="html">
+     <content>note4.html</content>
+    </note>
+   </group>
+   <note lastModification="2011-12-16T10:07:11" added="2011-12-16T10:07:02" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2012-01-07T23:57:16" added="2011-12-16T10:07:11" type="html">
+    <content>note13.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

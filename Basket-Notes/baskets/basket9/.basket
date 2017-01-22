@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Aufgaben</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="gtd-gtd.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="477">
+   <group folded="false">
+    <note lastModification="2014-01-27T16:02:30" added="2013-12-11T14:53:19" type="html">
+     <content>note1.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2014-01-27T16:02:26" added="2013-12-11T14:53:31" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_16</tags>
+    </note>
+    <note lastModification="2014-01-27T16:02:23" added="2013-12-11T14:55:19" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_17</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2014-01-27T16:02:20" added="2014-01-22T18:19:09" type="html">
+     <content>note26.html</content>
+     <tags>tag_state_17</tags>
+    </note>
+    <note lastModification="2014-01-27T16:02:16" added="2013-12-11T14:55:41" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2014-01-27T16:02:12" added="2013-12-11T15:05:33" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_18</tags>
+    </note>
+   </group>
+   <note lastModification="2014-01-22T18:18:59" added="2013-12-11T15:07:55" type="html">
+    <content>note10.html</content>
+   </note>
+   <note lastModification="2014-01-22T18:25:22" added="2014-01-22T18:19:39" type="html">
+    <content>note27.html</content>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-01-27T16:02:35" added="2013-12-11T14:56:09" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2013-12-11T14:56:53" added="2013-12-11T14:56:21" type="html">
+    <content>note6.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

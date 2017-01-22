@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Fazit</name>
+  <icon>application-exit2</icon>
+  <appearance backgroundColor="#dcd5ad" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-03-12T17:35:59" added="2014-03-12T17:35:36" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-03-12T17:55:32" added="2014-03-12T17:35:59" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-12T17:42:47" added="2014-03-12T17:42:05" type="html">
+    <content>note3.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

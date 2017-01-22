@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Lettland</name>
+  <icon>xfce-internet</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="656">
+   <note lastModification="2014-01-27T16:03:24" added="2014-01-22T18:12:56" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-01-27T16:02:46" added="2014-01-22T18:13:17" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-02-03T14:53:16" added="2014-01-22T18:25:23" type="html">
+    <content>note27.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-02-03T15:30:32" added="2014-01-27T16:03:24" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-12T17:56:38" added="2014-03-11T20:09:36" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-12T19:24:20" added="2014-03-12T17:56:38" type="html">
+    <content>note3.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-03-11T18:39:03" added="2014-02-24T14:04:50" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-03-11T18:40:29" added="2014-03-11T18:39:03" type="html">
+     <content>note28.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-03-11T18:42:25" added="2014-03-11T18:41:41" type="html">
+     <content>note30.html</content>
+     <tags>tag_state_2;todo_done</tags>
+    </note>
+    <note lastModification="2014-03-11T18:50:19" added="2014-03-11T18:48:30" type="html">
+     <content>note34.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2014-03-11T18:46:31" added="2014-03-11T18:44:06" type="html">
+     <content>note31.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-03-11T19:01:14" added="2014-03-11T18:46:31" type="html">
+     <content>note32.html</content>
+     <tags>tag_state_15;todo_done</tags>
+    </note>
+   </group>
+   <note lastModification="2014-03-11T19:22:59" added="2014-03-11T18:55:05" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-13T12:12:57" added="2014-03-13T11:57:26" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-13T12:14:54" added="2014-03-13T12:12:57" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-13T12:19:18" added="2014-03-13T12:14:55" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-13T12:41:02" added="2014-03-13T12:14:54" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-03-18T19:34:52" added="2014-03-18T18:52:57" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-01-27T16:03:21" added="2014-01-06T12:16:16" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-20T20:10:24" added="2014-01-06T12:16:35" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-18T20:16:22" added="2014-03-18T20:15:14" type="html">
+    <content>note48.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-18T20:39:26" added="2014-01-06T12:20:44" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-01-27T16:21:09" added="2014-01-22T17:44:07" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-11T14:48:30" added="2014-02-27T15:21:09" type="html">
+    <content>note33.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-03-11T12:20:19" added="2014-03-11T11:56:49" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-11T13:41:07" added="2014-03-11T12:20:19" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-16T19:47:04" added="2014-03-16T19:36:20" type="html">
+    <content>note44.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-16T19:34:18" added="2014-03-16T17:43:39" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-21T11:28:41" added="2014-03-16T18:41:00" type="html">
+    <content>note42.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-16T19:33:51" added="2014-03-16T19:22:49" type="html">
+    <content>note43.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-16T18:41:00" added="2014-03-16T18:32:50" type="html">
+    <content>note41.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-18T20:15:14" added="2014-03-18T19:35:17" type="html">
+    <content>note46.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-18T19:46:08" added="2014-03-18T19:44:07" type="html">
+    <content>note47.html</content>
+    <tags>tag_state_8;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-19T20:45:44" added="2014-03-19T14:49:07" type="html">
+    <content>note49.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-19T15:15:42" added="2014-03-19T15:11:11" type="html">
+    <content>note50.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-19T15:28:44" added="2014-03-19T15:15:42" type="html">
+    <content>note51.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-13T12:41:22" added="2014-03-13T12:41:02" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-03-12T20:25:14" added="2014-03-12T19:41:46" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_8;todo_done</tags>
+    </note>
+    <note lastModification="2014-03-12T21:18:49" added="2014-03-12T20:23:07" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+    <note lastModification="2014-03-11T19:01:06" added="2014-03-11T18:55:10" type="html">
+     <content>note37.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+   </group>
+   <note lastModification="2014-03-11T18:44:06" added="2014-03-11T18:40:29" type="html">
+    <content>note29.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-11T18:55:05" added="2014-03-11T18:51:22" type="html">
+    <content>note35.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-20T15:14:46" added="2014-03-11T19:01:12" type="html">
+    <content>note38.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-13T15:20:51" added="2014-03-13T12:43:02" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-20T11:55:16" added="2014-03-13T12:43:09" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-03-13T15:27:36" added="2014-03-13T15:21:20" type="html">
+    <content>note16.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-13T15:21:20" added="2014-03-13T15:20:58" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

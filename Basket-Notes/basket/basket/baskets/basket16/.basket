@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Europäische Energiepolitik</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2010-09-09T18:23:55" added="2009-12-27T08:38:00" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2010-09-11T20:05:20" added="2009-12-27T08:38:24" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

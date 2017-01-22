@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Aufgaben</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#f29b68" backgroundImage="gtd-next-actions.png" textColor="#000000"/>
+  <disposition free="true" mindMap="false" columnCount="0"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="559" folded="false" x="29" y="8">
+   <note lastModification="2012-01-31T13:17:04" added="2010-09-12T19:33:59" type="html">
+    <content>note5.html</content>
+    <tags>todo_unchecked</tags>
+   </note>
+   <note lastModification="2012-01-31T13:17:16" added="2010-09-12T19:34:32" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2012-01-31T13:17:32" added="2010-09-12T19:59:24" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

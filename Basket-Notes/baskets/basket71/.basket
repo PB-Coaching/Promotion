@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Producer &amp; Consumer Countries</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="401">
+   <note lastModification="2013-04-17T17:13:50" added="2013-04-17T17:13:21" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-04-17T17:14:21" added="2013-04-17T17:13:50" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-17T18:11:07" added="2013-04-17T17:14:21" type="html">
+     <content>note11.html</content>
+    </note>
+    <note lastModification="2013-04-17T18:12:51" added="2013-04-17T17:16:16" type="html">
+     <content>note12.html</content>
+     <tags>highlight</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-17T18:12:53" added="2013-04-17T18:12:51" type="html">
+    <content>note19.html</content>
+   </note>
+   <note lastModification="2013-04-17T18:13:23" added="2013-04-17T18:13:02" type="html">
+    <content>note20.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

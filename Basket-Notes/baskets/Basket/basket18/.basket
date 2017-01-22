@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Energiemarkt</name>
+  <icon>battery-charging</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="491"/>
+  <group/>
+ </notes>
+</basket>

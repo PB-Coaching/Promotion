@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Outlook</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="strings.png" textColor="" />
+  <disposition mindMap="false" columnCount="1" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group/>
+ </notes>
+</basket>

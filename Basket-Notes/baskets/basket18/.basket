@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Natural Gas Market</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="418">
+   <note lastModification="2013-04-17T17:21:02" added="2013-04-17T17:20:42" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-17T17:43:01" added="2013-04-17T17:21:19" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-17T17:44:46" added="2013-04-17T17:41:15" type="html">
+    <content>note15.html</content>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-04-17T17:21:19" added="2013-04-17T17:21:02" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>DNS</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#99ffff" backgroundImage="working.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="370">
+   <note lastModification="2013-09-11T19:13:51" added="2013-09-11T19:07:19" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-09-11T19:13:08" added="2013-09-11T19:07:27" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-09-11T19:12:58" added="2013-09-11T19:07:59" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-09-11T19:43:28" added="2013-09-11T19:13:51" type="html">
+    <content>note4.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

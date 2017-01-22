@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Literatur-Recherche</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffdfbf" backgroundImage="gtd-references.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="449">
+   <note lastModification="2012-02-05T14:12:22" added="2012-02-05T14:11:33" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2012-02-05T14:37:10" added="2010-07-11T19:07:37" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2012-02-05T14:13:05" added="2012-02-05T14:12:38" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-13T17:09:17" added="2012-02-05T14:13:18" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2012-02-05T14:29:24" added="2012-02-05T14:29:08" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2012-02-05T14:35:47" added="2012-02-05T14:29:28" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2012-02-05T14:35:40" added="2012-02-05T14:32:40" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-04-24T11:01:43" added="2013-04-24T11:01:12" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-24T11:02:23" added="2013-04-24T11:01:43" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T12:17:45" added="2013-04-24T11:02:23" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

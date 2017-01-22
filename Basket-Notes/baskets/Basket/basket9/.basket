@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Datenbank</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="3"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="305">
+   <note lastModification="2009-09-06T19:21:06" added="2009-09-06T19:13:50" type="html">
+    <content>note4.html</content>
+   </note>
+   <note lastModification="2009-09-06T19:21:36" added="2009-09-06T19:14:08" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group width="273">
+   <note lastModification="2010-07-11T18:49:19" added="2009-09-06T19:15:13" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2010-07-11T18:49:41" added="2009-09-06T19:15:26" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2009-09-06T19:18:17" added="2009-09-06T19:17:56" type="html">
+    <content>note8.html</content>
+   </note>
+   <note lastModification="2009-12-12T21:52:01" added="2009-09-06T19:18:17" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

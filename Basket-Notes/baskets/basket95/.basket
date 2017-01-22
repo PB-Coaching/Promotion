@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Korruption &amp; Politics</name>
+  <icon>coords</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-02-26T16:56:46" added="2014-02-26T16:56:33" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-04-05T15:35:39" added="2014-02-26T16:56:46" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-02-26T17:00:21" added="2014-02-26T17:00:20" type="html">
+    <content>note27.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

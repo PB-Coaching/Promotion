@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Literatur-Recherche</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffdfbf" backgroundImage="gtd-references.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="724">
+   <note lastModification="2010-07-11T19:10:03" added="2010-07-11T19:07:37" type="html">
+    <content>note2.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

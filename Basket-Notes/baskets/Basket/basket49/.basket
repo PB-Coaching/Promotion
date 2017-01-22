@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Music Titles</name>
+  <icon>gnome-mplayer</icon>
+  <appearance backgroundColor="#ffffbf" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="377">
+   <note lastModification="2012-02-11T12:33:57" added="2012-02-11T12:17:05" type="html">
+    <content>note1.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

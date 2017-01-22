@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basketTags>
+<basketTags nextStateUid="21">
+ <tag>
+  <name>Text</name>
+  <shortcut>Esc, -</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_5">
+   <name>Text</name>
+   <emblem>text-editor-symbolic</emblem>
+   <text bold="false" underline="false" color="#000000" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffffcc</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Text I</name>
+  <shortcut>Esc, .</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_2">
+   <name>Text I</name>
+   <emblem>draw-text</emblem>
+   <text bold="false" underline="false" color="#4d4d4d" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#cce6ff</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Text II</name>
+  <shortcut>Esc, ,</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_8">
+   <name>Text II</name>
+   <emblem>evolution-memos</emblem>
+   <text bold="false" underline="false" color="#4d4d4d" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#e6ccff</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Titel</name>
+  <shortcut>Ins, &lt;</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_10">
+   <name>Titel</name>
+   <emblem>tag_checkbox</emblem>
+   <text bold="true" underline="false" color="#404040" strikeOut="false" italic="false"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#cce6ff</backgroundColor>
+   <textEquivalent string="##" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Titel II</name>
+  <shortcut>Ins, Y</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_6">
+   <name>Titel II</name>
+   <emblem>x-office-address-book</emblem>
+   <text bold="true" underline="false" color="#4d4d4d" strikeOut="false" italic="false"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#ccccff</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Titel III</name>
+  <shortcut>Ins, X</shortcut>
+  <inherited>true</inherited>
+  <state id="tag_state_11">
+   <name>Titel III</name>
+   <emblem>korganizer</emblem>
+   <text bold="true" underline="false" color="#202020" strikeOut="false" italic="false"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#cccc00</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Point</name>
+  <shortcut>Esc, P</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_7">
+   <name>Point</name>
+   <emblem>bookmarks</emblem>
+   <text bold="false" underline="false" color="#4d4d4d" strikeOut="false" italic="true"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffccff</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Idea</name>
+  <shortcut>Esc, I</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_1">
+   <name>Idea</name>
+   <emblem>likeback_feature</emblem>
+   <text bold="false" underline="false" color="#4d4d4d" strikeOut="false" italic="true"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ccffff</backgroundColor>
+   <textEquivalent string="I." onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Dynamics</name>
+  <shortcut>Esc, D</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_15">
+   <name>Dynamics</name>
+   <emblem>arrow-right-double</emblem>
+   <text bold="false" underline="false" color="#404040" strikeOut="false" italic="true"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ccffff</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Konsequenz</name>
+  <shortcut>Esc, K</shortcut>
+  <inherited>false</inherited>
+  <state id="highlight">
+   <name>Konsequenz</name>
+   <emblem>draw-triangle2</emblem>
+   <text bold="false" underline="false" color="#4c0099" strikeOut="false" italic="true"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffcc99</backgroundColor>
+   <textEquivalent string="=>" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Zitat</name>
+  <shortcut>Esc, Z</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_19">
+   <name>Zitat</name>
+   <emblem>stock_spellcheck</emblem>
+   <text bold="false" underline="false" color="" strikeOut="false" italic="true"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#00cccc</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Wichtig</name>
+  <shortcut>Esc, W</shortcut>
+  <inherited>false</inherited>
+  <state id="important">
+   <name>Wichtig</name>
+   <emblem>tag_important</emblem>
+   <text bold="true" underline="false" color="#606060" strikeOut="false" italic="true"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffcccc</backgroundColor>
+   <textEquivalent string="!!" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Aufgabe</name>
+  <shortcut>Ctrl+1</shortcut>
+  <inherited>true</inherited>
+  <state id="todo_unchecked">
+   <name>Offen</name>
+   <emblem>tag_checkbox</emblem>
+   <text bold="true" underline="false" color="#c3c3c3" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ff9999</backgroundColor>
+   <textEquivalent string="[ ]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="todo_done">
+   <name>Fertig</name>
+   <emblem>tag_checkbox_checked</emblem>
+   <text bold="false" underline="false" color="#dcdcdc" strikeOut="true" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#006633</backgroundColor>
+   <textEquivalent string="[x]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Fragen</name>
+  <shortcut>Ctrl+7</shortcut>
+  <inherited>false</inherited>
+  <state id="very_important">
+   <name>Fragen</name>
+   <emblem>dialog-question</emblem>
+   <text bold="true" underline="false" color="#202020" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#d6d6ab</backgroundColor>
+   <textEquivalent string="/!\" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Literatur</name>
+  <shortcut>Pause, L</shortcut>
+  <inherited>false</inherited>
+  <state id="funny">
+   <name>Literatur</name>
+   <emblem>application-epub+zip</emblem>
+   <text bold="false" underline="false" color="#000066" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#cccc00</backgroundColor>
+   <textEquivalent string="" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Information</name>
+  <shortcut>Ins, I</shortcut>
+  <inherited>false</inherited>
+  <state id="information">
+   <name>Information</name>
+   <emblem>messagebox_info</emblem>
+   <text bold="true" underline="false" color="#000000" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ccccff</backgroundColor>
+   <textEquivalent string="(i)" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Fortschritt</name>
+  <shortcut>Ctrl+2</shortcut>
+  <inherited>true</inherited>
+  <state id="progress_000">
+   <name>0 %</name>
+   <emblem>tag_progress_000</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="13" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="[    ]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="progress_025">
+   <name>25 %</name>
+   <emblem>tag_progress_025</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="[=   ]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="progress_050">
+   <name>50 %</name>
+   <emblem>tag_progress_050</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="13" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="[==  ]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="progress_075">
+   <name>75 %</name>
+   <emblem>tag_progress_075</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="[=== ]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="progress_100">
+   <name>100 %</name>
+   <emblem>tag_progress_100</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="[====]" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Priorität</name>
+  <shortcut>Ctrl+3</shortcut>
+  <inherited>true</inherited>
+  <state id="priority_medium">
+   <name>Mittel</name>
+   <emblem>tag_priority_medium</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="15" name="DejaVu Sans"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="{2}" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="priority_high">
+   <name>Hoch</name>
+   <emblem>tag_priority_high</emblem>
+   <text bold="false" underline="false" color="#800000" strikeOut="false" italic="false"/>
+   <font size="16" name="Cantarell"/>
+   <backgroundColor>#ff8080</backgroundColor>
+   <textEquivalent string="{3}" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="priority_low">
+   <name>Niedrig</name>
+   <emblem>tag_priority_low</emblem>
+   <text bold="false" underline="false" color="#ffffff" strikeOut="false" italic="false"/>
+   <font size="16" name="Cantarell"/>
+   <backgroundColor>#ffffff</backgroundColor>
+   <textEquivalent string="{1}" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Vorliebe</name>
+  <shortcut>Ctrl+4</shortcut>
+  <inherited>true</inherited>
+  <state id="preference_bad">
+   <name>Schlecht</name>
+   <emblem>tag_preference_bad</emblem>
+   <text bold="false" underline="false" color="#800000" strikeOut="false" italic="false"/>
+   <font size="15" name="DejaVu Sans"/>
+   <backgroundColor>#ffe6cc</backgroundColor>
+   <textEquivalent string="(*  )" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="preference_good">
+   <name>Gut</name>
+   <emblem>tag_preference_good</emblem>
+   <text bold="false" underline="false" color="#800000" strikeOut="false" italic="false"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#e6ffcc</backgroundColor>
+   <textEquivalent string="(** )" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+  <state id="preference_excelent">
+   <name>Herrvorragend</name>
+   <emblem>tag_preference_excelent</emblem>
+   <text bold="false" underline="false" color="#800000" strikeOut="false" italic="false"/>
+   <font size="16" name="DejaVu Sans"/>
+   <backgroundColor>#66ffb3</backgroundColor>
+   <textEquivalent string="(***)" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Arbeit</name>
+  <shortcut></shortcut>
+  <inherited>false</inherited>
+  <state id="work">
+   <name>Arbeit</name>
+   <emblem></emblem>
+   <text bold="true" underline="false" color="#808080" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#cccc00</backgroundColor>
+   <textEquivalent string="A." onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Persönlich</name>
+  <shortcut></shortcut>
+  <inherited>false</inherited>
+  <state id="personal">
+   <name>Persönlich</name>
+   <emblem></emblem>
+   <text bold="true" underline="false" color="#008000" strikeOut="false" italic="false"/>
+   <font size="14" name="Cantarell"/>
+   <backgroundColor>#ffff99</backgroundColor>
+   <textEquivalent string="P." onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+ <tag>
+  <name>Information</name>
+  <shortcut>Ins, I</shortcut>
+  <inherited>false</inherited>
+  <state id="tag_state_20">
+   <name>Information</name>
+   <emblem>/home/pascal/.kde/share/apps/basket/baskets/tag-emblems/messagebox_info</emblem>
+   <text bold="true" underline="false" color="#000000" strikeOut="false" italic="false"/>
+   <font size="14" name="DejaVu Sans"/>
+   <backgroundColor>#ccccff</backgroundColor>
+   <textEquivalent string="(i)" onAllTextLines="false"/>
+   <allowCrossReferences>true</allowCrossReferences>
+  </state>
+ </tag>
+</basketTags>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Political Discourse</name>
+  <icon>skype_skypeme</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-03-11T15:07:34" added="2014-03-11T15:07:06" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-11T15:10:22" added="2014-03-11T15:07:34" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-11T15:12:43" added="2014-03-11T15:10:22" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-03-11T15:14:30" added="2014-03-11T15:11:50" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-03-11T15:20:28" added="2014-03-11T15:14:30" type="html">
+    <content>note27.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-03-11T18:47:20" added="2014-03-11T15:20:28" type="html">
+    <content>note28.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-03-13T19:58:37" added="2014-03-13T19:58:24" type="html">
+    <content>note29.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-13T19:59:01" added="2014-03-13T19:58:37" type="html">
+    <content>note30.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-13T19:59:05" added="2014-03-13T19:59:01" type="html">
+    <content>note31.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

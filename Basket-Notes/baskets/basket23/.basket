@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Intergouvernementalismus</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-24T20:08:10" added="2010-07-17T20:07:30" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-24T20:11:15" added="2013-04-24T19:54:11" type="html">
+    <content>note22.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T19:54:11" added="2013-04-24T12:18:46" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T19:53:19" added="2013-04-24T19:49:29" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T12:18:46" added="2010-07-17T20:12:49" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

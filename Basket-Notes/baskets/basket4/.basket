@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Beispiel: Untersuchung</name>
+  <icon>folder_violet</icon>
+  <appearance backgroundColor="#e6ccff" backgroundImage="pens.png" textColor="" />
+  <disposition mindMap="false" columnCount="0" free="true" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <note width="518" x="0" y="0" lastModification="2007-01-27T13:30:42" type="html" added="2005-11-29T00:11:19" >
+   <content>item10.txt</content>
+   <tags>highlight;information</tags>
+  </note>
+  <note width="317" x="38" y="60" lastModification="2007-01-27T13:12:56" type="html" added="2006-03-15T00:15:57" >
+   <content>note1.txt</content>
+   <tags>title;personal</tags>
+  </note>
+  <group folded="false" width="183" x="18" y="103" >
+   <note lastModification="2006-03-15T00:15:44" type="image" added="2006-03-15T00:15:44" >
+    <content>Manchot_Empereur.jpg</content>
+   </note>
+   <note lastModification="2007-01-27T13:13:56" type="link" added="2006-03-15T00:16:43" >
+    <content title="Von fr.wikipedia.org" autoIcon="true" autoTitle="false" icon="www" >http://fr.wikipedia.org/wiki/Image:Manchot_Empereur.jpg</content>
+   </note>
+  </group>
+  <note width="180" x="346" y="104" lastModification="2007-01-27T13:12:50" type="link" added="2006-03-15T00:19:10" >
+   <content title="Wikipedia-Artikel" autoIcon="true" autoTitle="false" icon="www" >http://de.wikipedia.org/wiki/Kaiserpinguin</content>
+  </note>
+  <group folded="false" width="231" x="197" y="146" >
+   <note lastModification="2007-01-27T13:13:08" type="html" added="2006-03-15T00:21:58" >
+    <content>note5.txt</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2006-03-15T00:22:18" type="link" added="2006-03-15T00:22:06" >
+    <content title="fred@internet.org" autoIcon="true" autoTitle="true" icon="message" >mailto:fred@internet.org</content>
+   </note>
+   <note lastModification="2006-03-15T00:23:31" type="link" added="2006-03-15T00:22:06" >
+    <content title="steeves@internet.org" autoIcon="true" autoTitle="false" icon="message" >mailto:fred@internet.org</content>
+   </note>
+   <note lastModification="2006-03-15T00:23:10" type="link" added="2006-03-15T00:22:06" >
+    <content title="john@internet.org" autoIcon="true" autoTitle="false" icon="message" >mailto:fred@internet.org</content>
+   </note>
+   <note lastModification="2006-03-18T20:01:23" type="html" added="2006-03-15T00:23:50" >
+    <content>note6.txt</content>
+   </note>
+  </group>
+  <group folded="false" width="210" x="36" y="397" >
+   <note lastModification="2007-01-27T13:26:50" type="html" added="2006-03-15T00:18:12" >
+    <content>note3.html</content>
+   </note>
+   <note lastModification="2007-01-27T13:27:45" type="html" added="2006-03-15T00:26:51" >
+    <content>note13.txt</content>
+    <tags>highlight</tags>
+   </note>
+  </group>
+  <group folded="true" width="216" x="549" y="458" >
+   <note lastModification="2007-01-27T13:28:38" type="html" added="2006-03-15T00:21:19" >
+    <content>note4.txt</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2007-01-27T13:28:27" type="html" added="2006-03-15T00:20:50" >
+    <content>note3.txt</content>
+   </note>
+  </group>
+  <note width="232" x="263" y="450" lastModification="2006-03-15T00:30:05" type="launcher" added="2006-03-15T00:30:05" >
+   <content>writer.desktop</content>
+  </note>
+  <note width="209" x="279" y="555" lastModification="2006-03-15T00:38:23" type="file" added="2006-03-15T00:38:23" >
+   <content>Emperor Penguin.odt</content>
+  </note>
+  <group folded="false" width="400" x="247" y="301" >
+   <note lastModification="2007-01-27T13:29:23" type="html" added="2006-03-15T00:27:55" >
+    <content>note14.txt</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2006-03-15T00:28:25" type="color" added="2006-03-15T00:28:11" >
+    <content>#002c6f</content>
+   </note>
+   <note lastModification="2006-03-15T00:36:23" type="color" added="2006-03-15T00:28:28" >
+    <content>#e67800</content>
+   </note>
+  </group>
+  <group folded="false" width="228" x="565" y="64" >
+   <note lastModification="2007-01-27T13:13:13" type="html" added="2006-03-15T00:24:37" >
+    <content>note7.txt</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2007-01-27T13:30:17" type="html" added="2006-03-15T00:24:42" >
+    <content>note8.txt</content>
+    <tags>todo_done</tags>
+   </note>
+   <note lastModification="2007-01-27T13:29:36" type="html" added="2006-03-15T00:24:50" >
+    <content>note9.txt</content>
+    <tags>todo_unchecked</tags>
+   </note>
+   <note lastModification="2007-01-27T13:13:24" type="html" added="2006-03-15T00:25:39" >
+    <content>note10.txt</content>
+    <tags>todo_unchecked</tags>
+   </note>
+   <note lastModification="2007-01-27T13:13:44" type="html" added="2006-03-15T00:25:55" >
+    <content>note11.txt</content>
+    <tags>todo_unchecked;important</tags>
+   </note>
+   <note lastModification="2007-01-27T13:29:28" type="html" added="2006-03-15T00:26:22" >
+    <content>note12.txt</content>
+    <tags>progress_025</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

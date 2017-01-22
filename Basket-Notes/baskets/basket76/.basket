@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Begriffe</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="pins.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="621">
+   <note lastModification="2014-01-29T10:54:08" added="2013-12-02T20:12:58" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-01-29T10:54:11" added="2013-12-02T20:13:17" type="html">
+    <content>note16.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-01-27T15:58:59" added="2013-12-02T20:14:05" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-01-29T10:54:24" added="2014-01-29T10:54:11" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-01-29T12:28:32" added="2013-12-02T20:14:28" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-01-27T15:59:15" added="2014-01-27T15:59:13" type="html">
+    <content>note23.html</content>
+   </note>
+   <note lastModification="2014-01-29T15:32:09" added="2014-01-29T12:28:32" type="html">
+    <content>note25.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

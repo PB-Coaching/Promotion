@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Research Question</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffccff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="389">
+   <note lastModification="2013-04-03T16:35:04" added="2013-04-03T16:34:37" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2013-04-04T17:57:04" added="2013-04-03T16:35:04" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-03T16:36:42" added="2013-04-03T16:36:41" type="html">
+    <content>note12.html</content>
+   </note>
+   <note lastModification="2013-04-03T16:37:18" added="2013-04-03T16:36:42" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-04-03T16:36:11" added="2013-04-03T16:35:54" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-03T16:42:13" added="2013-04-03T16:36:11" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2013-04-03T16:40:30" added="2013-04-03T16:38:35" type="html">
+     <content>note14.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-03T16:40:56" added="2013-04-03T16:40:37" type="html">
+    <content>note15.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

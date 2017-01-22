@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>EDF-South Stream</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffff" backgroundImage="alien-artifact.png" textColor="" />
+  <disposition mindMap="false" columnCount="1" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2010-02-14T18:06:29" type="html" added="2010-02-06T17:52:27" >
+    <content>note1.html</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2010-02-14T18:16:17" type="html" added="2010-02-06T17:52:38" >
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-02-14T18:06:40" type="html" added="2010-02-14T18:02:06" >
+    <content>note3.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2010-02-14T18:12:22" type="html" added="2010-02-14T18:02:45" >
+    <content>note4.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2010-02-14T18:53:43" type="html" added="2010-02-14T18:16:17" >
+    <content>note5.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

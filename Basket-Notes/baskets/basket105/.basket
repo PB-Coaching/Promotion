@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Interview-Auswertung</name>
+  <icon>im-aim</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-03-20T17:03:25" added="2014-03-20T17:03:12" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-20T17:04:29" added="2014-03-20T17:03:57" type="html">
+    <content>note3.html</content>
+    <tags>very_important</tags>
+   </note>
+   <note lastModification="2014-03-20T17:07:43" added="2014-03-20T17:03:25" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

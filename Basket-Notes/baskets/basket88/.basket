@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Liberalisierungspaket I</name>
+  <icon>process-idle</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-02-05T19:40:11" added="2014-02-05T19:26:05" type="html">
+    <content>note35.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-02-09T18:08:07" added="2014-02-05T19:40:11" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T19:44:13" added="2014-02-05T19:42:38" type="html">
+    <content>note37.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T19:45:14" added="2014-02-05T19:44:13" type="html">
+    <content>note38.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T19:46:06" added="2014-02-05T19:45:14" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T19:52:07" added="2014-02-05T19:46:06" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-02-05T19:54:05" added="2014-02-05T19:52:07" type="html">
+    <content>note41.html</content>
+    <tags>tag_state_8;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-09T18:58:50" added="2014-02-05T19:54:05" type="html">
+    <content>note42.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-02-09T19:06:19" added="2014-02-05T19:56:25" type="html">
+    <content>note43.html</content>
+    <tags>tag_state_8;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:05:43" added="2014-02-05T20:00:12" type="html">
+    <content>note44.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:07:43" added="2014-02-05T20:05:35" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:16:20" added="2014-02-05T20:07:43" type="html">
+    <content>note46.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:30:28" added="2014-02-05T20:18:59" type="html">
+    <content>note49.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:41:44" added="2014-02-05T20:30:28" type="html">
+    <content>note50.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-05T20:43:23" added="2014-02-05T20:41:44" type="html">
+    <content>note51.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-02-05T20:18:35" added="2014-02-05T20:16:20" type="html">
+    <content>note47.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-02-05T20:44:22" added="2014-02-05T20:18:35" type="html">
+    <content>note48.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-02-05T20:54:49" added="2014-02-05T20:44:22" type="html">
+    <content>note52.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Projektkursarbeit</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#fad496" backgroundImage="gtd-references.png" textColor="#000000"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2011-11-19T19:02:01" added="2007-06-08T16:30:44" type="html">
+    <content>note64.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2011-12-16T10:11:44" added="2011-12-16T10:11:35" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2011-12-16T10:12:30" added="2011-12-16T10:11:44" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2011-12-16T10:12:50" added="2011-12-16T10:12:30" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2011-12-16T10:13:21" added="2011-12-16T10:12:50" type="html">
+    <content>note16.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Ethnische Minderheiten</name>
+  <icon>im-aim</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-05-15T11:59:43" added="2014-05-15T11:59:20" type="html">
+    <content>note5.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-05-15T12:04:04" added="2014-05-15T11:59:43" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-15T12:05:49" added="2014-05-15T12:04:04" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-15T12:15:45" added="2014-05-15T12:05:05" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

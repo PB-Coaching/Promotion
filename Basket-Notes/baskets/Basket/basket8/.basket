@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Liberalismus</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#bfd9ff" backgroundImage="rounds-line.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2012-01-31T13:12:23" added="2011-11-29T14:12:07" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2012-01-31T13:12:17" added="2011-11-29T14:13:51" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2012-02-11T12:01:26" added="2012-02-11T12:01:06" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2012-02-11T12:03:02" added="2011-11-29T14:12:58" type="html">
+     <content>note2.html</content>
+    </note>
+    <note lastModification="2012-02-11T12:05:47" added="2011-11-29T14:25:35" type="html">
+     <content>note4.html</content>
+    </note>
+    <note lastModification="2012-02-11T12:04:53" added="2012-02-11T12:01:26" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2012-02-11T12:08:13" added="2011-12-12T14:44:06" type="html">
+     <content>note5.html</content>
+    </note>
+    <note lastModification="2012-02-11T12:08:03" added="2011-12-13T14:24:19" type="html">
+     <content>note6.html</content>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

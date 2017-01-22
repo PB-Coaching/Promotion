@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Events - Maidan-Protestbewegung</name>
+  <icon>distribute-horizontal-equal</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-25T18:50:35" added="2014-06-25T18:50:16" type="html">
+    <content>note33.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-25T18:53:21" added="2014-06-25T18:50:35" type="html">
+    <content>note34.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T18:55:01" added="2014-06-25T18:53:21" type="html">
+    <content>note35.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-06-25T18:56:43" added="2014-06-25T18:55:01" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-25T18:57:37" added="2014-06-25T18:56:43" type="html">
+    <content>note37.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-25T18:58:20" added="2014-06-25T18:57:37" type="html">
+    <content>note38.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2014-06-25T19:21:51" added="2014-06-25T18:58:20" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T19:23:24" added="2014-06-25T19:18:54" type="html">
+    <content>note43.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-25T19:24:13" added="2014-06-25T19:23:24" type="html">
+    <content>note44.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-25T19:28:58" added="2014-06-25T19:24:13" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-25T19:35:14" added="2014-06-25T19:28:58" type="html">
+    <content>note46.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2014-06-25T19:49:17" added="2014-06-25T19:35:14" type="html">
+    <content>note47.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-06-25T18:58:39" added="2014-06-25T18:58:32" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-25T19:14:15" added="2014-06-25T18:58:39" type="html">
+    <content>note41.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-25T19:18:54" added="2014-06-25T19:14:15" type="html">
+    <content>note42.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Oversight Procedures</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-16T17:43:11" added="2013-04-16T17:40:32" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-16T17:51:00" added="2013-04-16T17:43:11" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-16T17:50:47" added="2013-04-16T17:50:14" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2013-04-16T17:53:14" added="2013-04-16T17:50:33" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2013-04-16T18:08:30" added="2013-04-16T17:53:14" type="html">
+     <content>note9.html</content>
+     <tags>highlight</tags>
+    </note>
+    <note lastModification="2013-04-16T20:01:18" added="2013-04-16T18:06:38" type="html">
+     <content>note10.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+    <note lastModification="2013-04-16T19:20:57" added="2013-04-16T18:09:06" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-16T19:20:47" added="2013-04-16T18:52:09" type="html">
+    <content>note1.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

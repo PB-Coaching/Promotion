@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Opiumhandel in China</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcc99" backgroundImage="abstract.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2016-05-03T15:57:27" added="2016-05-03T15:57:00" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2016-05-03T15:59:10" added="2016-05-03T15:57:27" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2016-05-03T16:00:19" added="2016-05-03T15:59:10" type="html">
+    <content>note22.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2016-05-03T16:00:20" added="2016-05-03T16:00:19" type="html">
+    <content>note23.html</content>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2016-05-10T14:37:09" added="2016-05-10T14:36:54" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2016-05-10T14:40:57" added="2016-05-10T14:37:09" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2016-05-10T14:49:44" added="2016-05-10T14:37:55" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2016-05-10T14:51:09" added="2016-05-10T14:40:57" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2016-05-10T14:54:05" added="2016-05-10T14:51:10" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2016-05-10T17:11:36" added="2016-05-10T14:54:05" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

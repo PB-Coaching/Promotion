@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>European Integration</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffe6" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="724">
+   <group folded="false">
+    <note lastModification="2013-03-30T16:23:38" added="2013-03-30T16:22:58" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <group folded="false">
+     <note lastModification="2013-03-30T16:26:01" added="2013-03-30T16:23:38" type="html">
+      <content>note8.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2013-03-30T16:28:10" added="2013-03-30T16:25:14" type="html">
+      <content>note9.html</content>
+      <tags>tag_state_8</tags>
+     </note>
+     <note lastModification="2013-03-30T16:30:19" added="2013-03-30T16:28:10" type="html">
+      <content>note10.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2013-03-30T21:54:34" added="2013-03-30T16:30:19" type="html">
+      <content>note11.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2013-04-02T23:04:12" added="2013-04-01T18:37:52" type="html">
+      <content>note14.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2013-04-02T23:04:26" added="2013-04-02T22:55:14" type="html">
+      <content>note23.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+     <note lastModification="2013-04-02T23:04:33" added="2013-04-02T23:04:26" type="html">
+      <content>note24.html</content>
+     </note>
+    </group>
+   </group>
+   <note lastModification="2013-04-02T23:19:12" added="2013-04-02T23:04:35" type="html">
+    <content>note25.html</content>
+   </note>
+  </group>
+  <group>
+   <group folded="false">
+    <note lastModification="2013-04-01T18:37:10" added="2013-04-01T18:36:44" type="html">
+     <content>note12.html</content>
+     <tags>tag_state_11</tags>
+    </note>
+    <note lastModification="2013-04-01T18:40:30" added="2013-04-01T18:37:10" type="html">
+     <content>note13.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

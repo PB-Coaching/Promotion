@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Neoklassik</name>
+  <icon>align-vertical-bottom</icon>
+  <appearance backgroundColor="" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2015-07-10T13:33:26" added="2015-07-10T13:32:49" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2015-07-10T13:34:53" added="2015-07-10T13:33:04" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2015-07-10T13:36:26" added="2015-07-10T13:34:53" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2015-07-10T19:18:49" added="2015-07-10T19:18:02" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2015-07-10T19:22:30" added="2015-07-10T19:18:03" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2015-07-10T19:22:23" added="2015-07-10T19:20:31" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+   </group>
+   <note lastModification="2015-07-10T19:25:17" added="2015-07-10T19:22:59" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2015-07-10T19:25:41" added="2015-07-10T19:25:21" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2015-07-10T19:26:22" added="2015-07-10T19:25:41" type="html">
+     <content>note12.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2015-07-10T19:27:13" added="2015-07-10T19:26:22" type="html">
+     <content>note13.html</content>
+     <tags>highlight</tags>
+    </note>
+    <note lastModification="2015-07-10T19:27:33" added="2015-07-10T19:27:13" type="html">
+     <content>note14.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+    <note lastModification="2015-07-10T19:29:08" added="2015-07-10T19:28:25" type="html">
+     <content>note16.html</content>
+     <tags>highlight</tags>
+    </note>
+    <note lastModification="2015-07-10T19:29:53" added="2015-07-10T19:27:33" type="html">
+     <content>note15.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2015-07-10T19:30:44" added="2015-07-10T19:29:53" type="html">
+     <content>note17.html</content>
+     <tags>tag_state_15</tags>
+    </note>
+   </group>
+  </group>
+  <group>
+   <note lastModification="2015-07-10T13:36:39" added="2015-07-10T13:36:26" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2015-07-11T13:10:12" added="2015-07-10T13:36:39" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2015-07-11T16:07:38" added="2015-07-10T19:25:17" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2015-07-10T19:31:29" added="2015-07-10T19:30:58" type="html">
+    <content>note18.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

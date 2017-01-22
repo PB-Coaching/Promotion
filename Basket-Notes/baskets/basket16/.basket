@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Energy Policy In Europe</name>
+  <icon>retweet</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-24T16:42:15" added="2009-12-27T08:38:00" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-24T16:42:35" added="2013-04-24T16:41:44" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2013-04-24T17:04:58" added="2013-04-24T16:32:52" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T17:06:29" added="2013-04-24T16:43:26" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T16:41:10" added="2013-04-24T16:39:10" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T16:43:19" added="2013-04-24T16:42:35" type="html">
+    <content>note16.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2013-04-24T16:39:37" added="2013-04-24T16:36:50" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T17:55:31" added="2013-04-24T17:06:52" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T17:55:20" added="2013-04-24T17:51:07" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-24T18:05:53" added="2013-04-24T17:56:04" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2013-04-24T18:01:07" added="2013-04-24T17:59:26" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-24T18:04:22" added="2013-04-24T18:01:07" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-24T18:10:33" added="2013-04-24T18:04:05" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-24T18:13:54" added="2013-04-24T18:11:04" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-24T18:23:50" added="2013-04-24T18:13:54" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T18:29:07" added="2013-04-24T18:22:42" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-24T19:47:15" added="2013-04-24T19:40:48" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T19:40:48" added="2013-04-24T19:40:37" type="html">
+    <content>note19.html</content>
+   </note>
+   <note lastModification="2013-04-24T19:40:37" added="2013-04-24T19:40:34" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-24T19:47:24" added="2009-12-27T08:38:24" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

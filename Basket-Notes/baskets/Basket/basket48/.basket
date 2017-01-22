@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Europäische Integration</name>
+  <icon>network-workgroup</icon>
+  <appearance backgroundColor="#e8b7d7" backgroundImage="alien-artifact.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <group folded="false">
+    <note lastModification="2012-02-09T09:21:58" added="2012-02-09T09:20:54" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_11</tags>
+    </note>
+    <note lastModification="2012-02-09T09:25:02" added="2012-02-09T09:22:46" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2012-02-09T09:30:40" added="2012-02-09T09:25:02" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2012-02-09T09:22:02" added="2012-02-05T13:58:02" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2012-02-09T09:32:59" added="2012-02-05T13:58:32" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2012-02-09T09:33:04" added="2012-02-05T14:42:33" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2012-02-09T09:31:54" added="2012-02-05T15:20:08" type="html">
+     <content>note10.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2012-02-07T09:54:28" added="2012-02-05T15:23:50" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2012-02-09T09:33:29" added="2012-02-05T15:48:05" type="html">
+     <content>note13.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2012-02-09T09:33:32" added="2012-02-05T15:41:07" type="html">
+     <content>note12.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2012-02-09T09:33:56" added="2012-02-07T09:27:55" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2012-02-09T09:33:48" added="2012-02-07T09:30:42" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2012-02-09T09:34:26" added="2012-02-07T11:40:05" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2012-02-09T09:34:26" added="2012-02-09T09:34:26" type="html">
+    <content>note14.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

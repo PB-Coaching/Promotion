@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Tipps</name>
+  <icon>/home/pascal/.kde/share/apps/basket/basket-icons/ktip</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="light.png" textColor="#000000"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <group folded="false">
+    <note lastModification="2007-01-27T13:31:11" added="2006-07-09T22:23:01" type="html">
+     <content>note1.html</content>
+    </note>
+    <note lastModification="2007-01-27T13:43:17" added="2007-01-13T12:29:23" type="html">
+     <content>note6.html</content>
+    </note>
+    <note lastModification="2007-01-27T13:44:14" added="2007-01-13T13:06:33" type="html">
+     <content>note11.html</content>
+    </note>
+    <note lastModification="2007-01-27T13:45:44" added="2007-01-13T12:27:22" type="html">
+     <content>note5.html</content>
+    </note>
+    <note lastModification="2007-01-27T13:49:40" added="2006-08-26T15:16:15" type="html">
+     <content>note4.html</content>
+    </note>
+    <note lastModification="2007-01-27T13:50:28" added="2006-03-14T02:03:57" type="html">
+     <content>note1.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:52:56" added="2006-07-09T22:23:13" type="html">
+     <content>note2.html</content>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2007-01-27T13:53:02" added="2005-11-01T19:00:03" type="html">
+     <content>item4.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:01:39" added="2005-11-01T19:00:03" type="html">
+     <content>item14.txt</content>
+    </note>
+    <note lastModification="2007-01-27T15:14:55" added="2005-11-01T19:00:03" type="html">
+     <content>item15.txt</content>
+    </note>
+    <note lastModification="2007-01-27T15:19:06" added="2005-12-01T16:00:50" type="html">
+     <content>item13.txt</content>
+    </note>
+    <group folded="true">
+     <note lastModification="2007-01-27T15:32:46" added="2005-11-01T19:00:03" type="html">
+      <content>item7.txt</content>
+     </note>
+     <note lastModification="2007-01-27T15:34:39" added="2005-12-01T16:00:14" type="html">
+      <content>item12.txt</content>
+     </note>
+    </group>
+    <note lastModification="2007-01-27T15:18:00" added="2005-11-13T14:39:08" type="html">
+     <content>item3.txt</content>
+    </note>
+    <note lastModification="2007-01-27T15:22:32" added="2006-03-14T02:04:43" type="html">
+     <content>note2.txt</content>
+    </note>
+    <note lastModification="2007-01-27T15:16:56" added="2006-01-31T20:24:02" type="html">
+     <content>item24.txt</content>
+    </note>
+    <note lastModification="2007-01-27T15:24:41" added="2007-01-13T13:34:05" type="html">
+     <content>note15.html</content>
+    </note>
+    <note lastModification="2007-01-27T15:26:27" added="2007-01-13T18:14:06" type="html">
+     <content>note12.html</content>
+    </note>
+    <note lastModification="2007-01-27T15:31:37" added="2007-01-13T18:13:00" type="html">
+     <content>note3.html</content>
+    </note>
+   </group>
+   <group folded="true">
+    <note lastModification="2007-01-27T14:16:54" added="2005-11-01T19:00:03" type="html">
+     <content>item8.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:53:58" added="2005-12-17T14:20:45" type="html">
+     <content>item22.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:54:41" added="2005-11-01T19:00:03" type="html">
+     <content>item9.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:55:14" added="2005-11-01T19:00:03" type="html">
+     <content>item10.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:56:24" added="2005-11-01T19:00:10" type="html">
+     <content>item1.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:57:31" added="2007-01-13T13:00:10" type="html">
+     <content>note8.html</content>
+    </note>
+   </group>
+   <group folded="true">
+    <note lastModification="2007-01-27T14:17:17" added="2005-11-01T19:00:03" type="html">
+     <content>item5.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:02:55" added="2005-11-01T19:00:03" type="html">
+     <content>item17.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:03:30" added="2007-01-13T12:46:29" type="html">
+     <content>note7.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:04:09" added="2006-03-03T15:12:44" type="html">
+     <content>note5.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:05:14" added="2005-11-01T19:00:03" type="html">
+     <content>item16.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:06:18" added="2005-11-01T19:00:03" type="html">
+     <content>item6.txt</content>
+    </note>
+    <note lastModification="2007-01-27T14:07:30" added="2007-01-13T13:01:23" type="html">
+     <content>note9.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:08:28" added="2007-01-13T13:05:13" type="html">
+     <content>note10.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:12:42" added="2007-01-13T13:11:25" type="html">
+     <content>note13.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:14:21" added="2007-01-13T13:12:25" type="html">
+     <content>note14.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:15:00" added="2007-01-13T18:53:11" type="html">
+     <content>note17.html</content>
+    </note>
+    <note lastModification="2007-01-27T14:16:45" added="2007-01-13T16:46:34" type="html">
+     <content>note16.html</content>
+    </note>
+   </group>
+   <group folded="true">
+    <note lastModification="2007-01-27T15:27:32" added="2005-12-15T18:35:19" type="html">
+     <content>item20.txt</content>
+    </note>
+    <note lastModification="2007-01-27T13:59:50" added="2005-12-15T18:35:39" type="html">
+     <content>item21.txt</content>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

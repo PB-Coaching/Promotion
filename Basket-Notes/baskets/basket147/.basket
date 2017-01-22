@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Kameralistik</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2015-06-07T14:59:27" added="2015-06-07T14:59:19" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2015-06-07T15:01:02" added="2015-06-07T14:59:27" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2015-06-07T15:01:59" added="2015-06-07T15:01:02" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2015-06-07T15:03:38" added="2015-06-07T15:01:59" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2015-06-07T15:05:16" added="2015-06-07T15:03:38" type="html">
+    <content>note9.html</content>
+    <tags>highlight</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2015-06-07T17:06:02" added="2015-06-07T16:06:31" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

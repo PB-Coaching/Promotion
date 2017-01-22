@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Need for Capacity</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffccff" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="366"/>
+  <group/>
+ </notes>
+</basket>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Nord Stream</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="650">
+   <note lastModification="2014-01-27T16:01:55" added="2014-01-09T17:14:23" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-01-27T16:01:50" added="2014-01-09T17:14:54" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-01-27T16:02:05" added="2014-01-27T16:01:55" type="html">
+    <content>note23.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

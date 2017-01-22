@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Liberalisierungspaket II</name>
+  <icon>process-idle</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-02-06T11:32:11" added="2014-02-06T11:31:49" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-02-06T11:49:36" added="2014-02-06T11:32:11" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-06T11:50:57" added="2014-02-06T11:49:36" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-02-06T15:10:40" added="2014-02-06T11:50:57" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T19:33:14" added="2014-02-06T15:10:40" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T15:35:37" added="2014-02-06T15:15:44" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T17:46:42" added="2014-02-10T15:35:37" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T17:49:51" added="2014-02-10T17:46:42" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_15;todo_done</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-02-10T17:54:46" added="2014-02-10T17:49:51" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_5;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-10T17:55:16" added="2014-02-10T17:54:46" type="html">
+     <content>note10.html</content>
+     <tags>tag_state_15;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-10T19:59:16" added="2014-02-10T17:55:16" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_15;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-10T17:58:23" added="2014-02-10T17:56:25" type="html">
+     <content>note13.html</content>
+     <tags>tag_state_15;todo_done</tags>
+    </note>
+   </group>
+   <note lastModification="2014-02-10T18:08:08" added="2014-02-10T17:56:23" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_5;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T18:08:59" added="2014-02-10T18:08:08" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-02-10T18:09:18" added="2014-02-10T18:08:59" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-02-10T18:11:32" added="2014-02-10T18:09:18" type="html">
+    <content>note16.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T18:12:38" added="2014-02-10T18:11:32" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T18:16:52" added="2014-02-10T18:12:38" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-02-10T18:18:46" added="2014-02-10T18:16:52" type="html">
+     <content>note19.html</content>
+     <tags>tag_state_2;todo_done</tags>
+    </note>
+    <note lastModification="2014-02-10T18:20:10" added="2014-02-10T18:18:46" type="html">
+     <content>note20.html</content>
+     <tags>tag_state_15;todo_done</tags>
+    </note>
+   </group>
+   <note lastModification="2014-02-10T18:22:09" added="2014-02-10T18:20:12" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T18:23:09" added="2014-02-10T18:22:09" type="html">
+    <content>note22.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+   <note lastModification="2014-02-10T19:32:53" added="2014-02-10T18:23:09" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_2;todo_done</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

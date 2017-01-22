@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Free Rider Problem</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccccff" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-03-27T16:38:17" added="2013-03-27T16:37:44" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-15T16:28:06" added="2013-03-27T16:38:17" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

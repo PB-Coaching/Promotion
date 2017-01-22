@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Conclusion</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="gtd-references.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="406">
+   <note lastModification="2013-03-27T16:45:43" added="2013-03-27T16:45:27" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-09T21:24:39" added="2013-04-02T18:34:51" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_5;preference_bad</tags>
+   </note>
+   <note lastModification="2013-04-11T19:54:46" added="2013-04-04T11:31:37" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_5;preference_bad</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-11T20:07:30" added="2013-03-27T15:28:56" type="html">
+     <content>note30.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2013-04-11T19:55:04" added="2013-03-27T15:31:39" type="html">
+     <content>note31.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2013-04-11T19:54:58" added="2013-03-27T15:35:05" type="html">
+     <content>note32.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+   </group>
+   <note lastModification="2013-03-27T15:44:31" added="2013-03-27T15:44:26" type="html">
+    <content>note35.html</content>
+   </note>
+   <note lastModification="2013-04-03T18:14:51" added="2013-03-27T15:43:41" type="html">
+    <content>note34.html</content>
+   </note>
+  </group>
+  <group>
+   <group folded="false">
+    <note lastModification="2013-03-27T16:46:38" added="2013-03-27T16:45:51" type="html">
+     <content>note41.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-04-11T17:02:36" added="2013-03-27T16:46:38" type="html">
+     <content>note42.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-11T17:01:55" added="2013-03-27T17:02:06" type="html">
+     <content>note43.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-11T19:38:56" added="2013-03-27T17:04:42" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2013-04-11T20:09:15" added="2013-03-27T17:08:04" type="html">
+    <content>note46.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2013-04-11T17:01:50" added="2013-03-27T17:08:21" type="html">
+    <content>note47.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2013-03-28T16:59:34" added="2013-03-28T16:59:33" type="html">
+    <content>note19.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

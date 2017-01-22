@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Introduction</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="366">
+   <note lastModification="2013-03-25T17:50:55" added="2013-03-25T17:50:01" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-03-25T17:51:56" added="2013-03-25T17:50:13" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-03-25T18:25:12" added="2013-03-25T17:51:56" type="html">
+    <content>note6.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

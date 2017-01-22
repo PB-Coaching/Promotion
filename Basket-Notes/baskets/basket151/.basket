@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Britische Politik</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcccc" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734"/>
+  <group>
+   <note lastModification="2016-05-04T15:07:17" added="2016-05-04T15:06:59" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2016-05-04T15:07:44" added="2016-05-04T15:07:17" type="html">
+    <content>note2.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2016-05-04T15:08:09" added="2016-05-04T15:07:44" type="html">
+    <content>note3.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2016-05-04T15:16:32" added="2016-05-04T15:08:09" type="html">
+    <content>note4.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Definitionen</name>
+  <icon>edit-select-all-symbolic</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-28T11:11:12" added="2014-06-28T11:10:58" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-30T18:39:46" added="2014-06-28T11:11:12" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-28T11:46:03" added="2014-06-28T11:44:15" type="html">
+    <content>note11.html</content>
+    <tags>information</tags>
+   </note>
+   <note lastModification="2014-06-28T11:49:03" added="2014-06-28T11:46:03" type="html">
+    <content>note12.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-28T11:55:59" added="2014-06-28T11:49:03" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-28T12:03:28" added="2014-06-28T11:55:59" type="html">
+    <content>note14.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-28T12:07:08" added="2014-06-28T12:03:28" type="html">
+    <content>note15.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-28T14:47:34" added="2014-06-28T12:07:08" type="html">
+    <content>note16.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-28T16:25:10" added="2014-06-28T16:24:48" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-28T16:24:48" added="2014-06-28T16:22:12" type="html">
+    <content>note19.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-28T17:54:22" added="2014-06-28T16:25:10" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-06-30T14:46:54" added="2014-06-30T14:46:21" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-30T14:58:00" added="2014-06-30T14:46:54" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T14:59:13" added="2014-06-30T14:58:02" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-30T15:05:03" added="2014-06-30T14:59:13" type="html">
+    <content>note26.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-30T15:11:52" added="2014-06-30T15:05:03" type="html">
+    <content>note27.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-30T15:12:52" added="2014-06-30T15:11:52" type="html">
+    <content>note28.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-30T15:15:23" added="2014-06-30T15:12:52" type="html">
+    <content>note29.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2014-06-30T15:44:54" added="2014-06-30T15:15:24" type="html">
+    <content>note30.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

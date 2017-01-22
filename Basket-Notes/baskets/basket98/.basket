@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Innenpolitik in Lettland</name>
+  <icon>package-broken</icon>
+  <appearance backgroundColor="#ffe6cc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-03-01T15:48:41" added="2014-03-01T15:48:30" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-01T16:04:22" added="2014-03-01T15:48:48" type="html">
+    <content>note25.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-01T15:48:48" added="2014-03-01T15:48:41" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

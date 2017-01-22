@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Research Design</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffff" backgroundImage="strings.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="687">
+   <note lastModification="2012-01-31T13:13:11" added="2010-01-22T20:39:30" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2013-04-24T10:31:26" added="2010-01-22T20:39:39" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2013-04-23T18:40:31" added="2013-04-23T17:22:20" type="html">
+    <content>note29.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

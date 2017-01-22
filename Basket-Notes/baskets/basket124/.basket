@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Time-Lag der Abspaltung</name>
+  <icon>games-config-background</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-22T18:19:03" added="2014-05-24T12:29:56" type="html">
+    <content>note30.html</content>
+    <tags>very_important</tags>
+   </note>
+   <note lastModification="2014-05-24T12:32:52" added="2014-05-24T12:31:23" type="html">
+    <content>note31.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2014-05-24T12:33:26" added="2014-05-24T12:32:52" type="html">
+     <content>note32.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2014-05-24T12:33:54" added="2014-05-24T12:33:26" type="html">
+     <content>note33.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2014-05-24T12:35:37" added="2014-05-24T12:34:55" type="html">
+     <content>note35.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2014-05-24T12:36:19" added="2014-05-24T12:35:49" type="html">
+     <content>note36.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2014-05-24T12:34:55" added="2014-05-24T12:33:54" type="html">
+     <content>note34.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+   </group>
+   <note lastModification="2014-05-24T12:38:13" added="2014-05-24T12:36:19" type="html">
+    <content>note37.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-24T12:39:21" added="2014-05-24T12:38:13" type="html">
+    <content>note38.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-05-24T12:42:24" added="2014-05-24T12:39:21" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-05-24T12:42:33" added="2014-05-24T12:42:24" type="html">
+    <content>note40.html</content>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

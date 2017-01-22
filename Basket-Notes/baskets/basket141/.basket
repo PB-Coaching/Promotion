@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Regionalreform in Frankreich</name>
+  <icon>ktnef_extract_all_to</icon>
+  <appearance backgroundColor="#e6ccff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-30T10:43:20" added="2014-06-30T10:43:04" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-30T10:46:41" added="2014-06-30T10:43:20" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T11:55:47" added="2014-06-30T10:46:41" type="html">
+    <content>note11.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-30T19:56:39" added="2014-06-30T19:52:15" type="html">
+    <content>note43.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-30T19:58:51" added="2014-06-30T19:56:39" type="html">
+    <content>note44.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T20:00:20" added="2014-06-30T19:58:51" type="html">
+    <content>note45.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-30T20:27:18" added="2014-06-30T20:00:20" type="html">
+    <content>note46.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2014-06-30T18:48:59" added="2014-06-30T18:48:39" type="html">
+    <content>note39.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2014-06-30T18:50:20" added="2014-06-30T18:48:59" type="html">
+    <content>note40.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T19:44:38" added="2014-06-30T18:50:20" type="html">
+    <content>note41.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-06-30T18:32:52" added="2014-06-30T18:32:34" type="html">
+    <content>note33.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2014-06-30T18:39:57" added="2014-06-30T18:32:52" type="html">
+    <content>note34.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T18:40:51" added="2014-06-30T18:39:57" type="html">
+    <content>note35.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-30T18:43:06" added="2014-06-30T18:40:51" type="html">
+    <content>note36.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-30T19:52:15" added="2014-06-30T19:44:38" type="html">
+    <content>note42.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-30T18:45:47" added="2014-06-30T18:43:06" type="html">
+    <content>note37.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-30T18:48:39" added="2014-06-30T18:45:47" type="html">
+    <content>note38.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Linux-System</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffbf" backgroundImage="gtd-projects.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="726">
+   <group folded="false">
+    <note lastModification="2013-03-27T13:58:01" added="2012-02-02T08:27:08" type="html">
+     <content>note1.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-03-28T17:10:48" added="2012-02-02T08:27:28" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2013-03-27T13:58:07" added="2013-03-27T13:57:35" type="html">
+     <content>note19.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-03-28T17:10:40" added="2013-03-27T13:58:07" type="html">
+     <content>note20.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-03-28T17:10:05" added="2013-03-28T17:09:32" type="html">
+     <content>note21.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2013-03-28T17:10:58" added="2013-03-28T17:10:55" type="html">
+    <content>note23.html</content>
+   </note>
+  </group>
+  <group>
+   <group folded="false">
+    <note lastModification="2013-03-27T13:57:35" added="2012-01-16T20:15:46" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-03-28T17:10:55" added="2012-01-16T20:15:57" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

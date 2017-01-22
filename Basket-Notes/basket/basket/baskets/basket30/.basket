@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Entwicklungen </name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffcce6" backgroundImage="working.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2010-09-11T19:57:19" added="2010-01-01T23:52:04" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2010-09-11T19:57:13" added="2010-01-01T23:52:28" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-09-11T19:57:10" added="2010-01-01T23:54:25" type="html">
+    <content>note4.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2010-09-11T19:57:21" added="2010-01-01T23:54:49" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-09-11T19:56:55" added="2010-01-02T23:33:16" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2010-01-02T23:33:48" added="2010-01-02T23:33:31" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-09-11T19:56:45" added="2010-01-02T23:33:48" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2010-09-11T19:54:53" added="2010-01-02T23:33:58" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-09-11T19:57:29" added="2010-01-02T23:38:12" type="html">
+    <content>note9.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2010-09-11T20:04:31" added="2010-01-02T23:40:51" type="html">
+    <content>note10.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

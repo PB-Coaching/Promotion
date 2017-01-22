@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>BeLUG-Aufgaben</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#bfd9ff" backgroundImage="gtd-references.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="726">
+   <group folded="false">
+    <note lastModification="2012-01-16T19:25:40" added="2012-01-16T19:25:23" type="html">
+     <content>note1.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2012-01-16T20:14:33" added="2012-01-16T19:25:40" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2012-01-16T20:14:51" added="2012-01-16T20:14:33" type="html">
+     <content>note5.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2012-01-17T14:11:23" added="2012-01-16T20:14:51" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+   </group>
+  </group>
+  <group>
+   <group folded="false">
+    <note lastModification="2012-01-16T20:13:37" added="2012-01-16T20:13:29" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2012-01-16T20:18:00" added="2012-01-16T20:13:37" type="html">
+     <content>note4.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

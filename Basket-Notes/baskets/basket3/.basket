@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Beispiel: Notizen</name>
+  <icon>/home/pascal/.kde/share/apps/basket/basket-icons/knotes</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="pins.png" textColor=""/>
+  <disposition free="true" mindMap="false" columnCount="0"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <note width="494" x="0" lastModification="2007-01-27T13:11:39" y="0" added="2005-11-04T13:24:09" type="html">
+   <content>item10.txt</content>
+   <tags>highlight;information</tags>
+  </note>
+  <group width="334" folded="false" x="15" y="113">
+   <note lastModification="2007-01-27T12:51:04" added="2005-11-04T13:24:09" type="html">
+    <content>item2.txt</content>
+   </note>
+   <note lastModification="2007-01-27T12:53:18" added="2005-11-04T13:24:09" type="html">
+    <content>item6.txt</content>
+   </note>
+   <note lastModification="2007-01-27T12:53:42" added="2005-11-04T13:24:09" type="html">
+    <content>item9.txt</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2007-01-27T12:54:05" added="2005-11-04T13:24:09" type="html">
+    <content>item11.txt</content>
+   </note>
+   <note lastModification="2007-01-27T13:11:25" added="2007-01-13T17:31:58" type="html">
+    <content>note2.html</content>
+   </note>
+   <note lastModification="2007-01-27T15:32:03" added="2005-11-04T13:24:09" type="html">
+    <content>item12.txt</content>
+   </note>
+  </group>
+  <group width="292" folded="false" x="374" y="116">
+   <note lastModification="2005-11-04T13:24:09" added="2005-11-04T13:24:09" type="html">
+    <content>item3.txt</content>
+   </note>
+   <note lastModification="2007-01-27T12:55:26" added="2005-11-04T13:24:09" type="html">
+    <content>item5.txt</content>
+    <tags>todo_done</tags>
+   </note>
+   <note lastModification="2007-01-27T12:54:19" added="2005-11-04T13:24:09" type="html">
+    <content>item7.txt</content>
+    <tags>todo_unchecked</tags>
+   </note>
+   <note lastModification="2007-01-27T12:54:31" added="2005-11-04T13:24:09" type="html">
+    <content>item8.txt</content>
+    <tags>progress_025</tags>
+   </note>
+  </group>
+  <group width="216" folded="false" x="393" y="311">
+   <note lastModification="2005-11-04T13:24:09" added="2005-11-04T13:24:09" type="html">
+    <content>item4.txt</content>
+   </note>
+   <note lastModification="2005-11-04T13:24:09" added="2005-11-04T13:24:09" type="link">
+    <content title="google.com" autoIcon="true" icon="text-html" autoTitle="true">http://www.google.com</content>
+   </note>
+   <note lastModification="2005-11-04T13:24:09" added="2005-11-04T13:24:09" type="link">
+    <content title="kde.org" autoIcon="true" icon="text-html" autoTitle="true">http://www.kde.org</content>
+   </note>
+  </group>
+ </notes>
+</basket>

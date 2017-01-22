@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Definitions</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#cce6ff" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="366">
+   <note lastModification="2013-03-25T16:23:41" added="2013-03-25T16:19:57" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-03-25T16:23:51" added="2013-03-25T16:20:18" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2013-03-25T16:24:32" added="2013-03-25T16:23:51" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-03-25T17:49:59" added="2013-03-25T16:24:32" type="html">
+    <content>note4.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

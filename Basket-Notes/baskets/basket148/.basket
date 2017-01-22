@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Opium in China</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="strings.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2016-05-03T11:29:42" added="2016-05-03T10:57:45" type="html">
+    <content>note6.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2016-05-03T11:31:39" added="2016-05-03T11:29:31" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+    <note lastModification="2016-05-03T11:33:34" added="2016-05-03T11:31:39" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2016-05-03T11:36:19" added="2016-05-03T11:33:34" type="html">
+     <content>note10.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2016-05-03T11:39:55" added="2016-05-03T11:36:19" type="html">
+     <content>note11.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+    <note lastModification="2016-05-03T11:41:04" added="2016-05-03T11:39:55" type="html">
+     <content>note12.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2016-05-03T15:51:24" added="2016-05-03T11:41:18" type="html">
+     <content>note14.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2016-05-03T11:45:17" added="2016-05-03T11:44:37" type="html">
+     <content>note16.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2016-05-03T11:47:25" added="2016-05-03T11:44:34" type="html">
+     <content>note15.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+   </group>
+   <note lastModification="2016-05-03T15:56:39" added="2016-05-03T15:49:57" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2016-05-03T11:48:10" added="2016-05-03T11:41:04" type="html">
+    <content>note13.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2016-05-03T11:49:02" added="2016-05-03T11:47:25" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2016-05-03T15:47:42" added="2016-05-03T11:49:02" type="html">
+    <content>note18.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2016-05-03T15:49:57" added="2016-05-03T15:47:59" type="html">
+    <content>note19.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2016-05-03T10:54:14" added="2016-05-03T10:53:53" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_6</tags>
+   </note>
+   <note lastModification="2016-05-03T10:55:54" added="2016-05-03T10:54:01" type="html">
+    <content>note3.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2016-05-03T10:56:42" added="2016-05-03T10:54:00" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2016-05-03T10:59:25" added="2016-05-03T10:56:42" type="html">
+    <content>note4.html</content>
+    <tags>highlight</tags>
+   </note>
+   <note lastModification="2016-05-03T11:29:31" added="2016-05-03T10:57:53" type="html">
+    <content>note7.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+   <note lastModification="2016-05-03T15:47:59" added="2016-05-03T10:57:44" type="html">
+    <content>note5.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

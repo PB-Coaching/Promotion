@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Innenpolitik in Litauen</name>
+  <icon>package-installed-updated</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-03-01T15:13:30" added="2014-03-01T15:13:17" type="html">
+    <content>note17.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-03-01T15:18:50" added="2014-03-01T15:13:32" type="html">
+    <content>note19.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-03-01T15:21:25" added="2014-03-01T15:18:50" type="html">
+    <content>note20.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-03-01T15:24:10" added="2014-03-01T15:21:25" type="html">
+    <content>note21.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-03-01T15:48:29" added="2014-03-01T15:24:10" type="html">
+    <content>note22.html</content>
+   </note>
+   <note lastModification="2014-03-01T15:24:37" added="2014-03-01T15:24:35" type="html">
+    <content>note23.html</content>
+   </note>
+  </group>
+  <group>
+   <note lastModification="2014-03-01T15:13:32" added="2014-03-01T15:13:30" type="html">
+    <content>note18.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

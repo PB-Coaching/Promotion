@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Estland</name>
+  <icon>gift</icon>
+  <appearance backgroundColor="#ccffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="734">
+   <note lastModification="2014-05-15T18:18:50" added="2014-05-15T18:18:08" type="html">
+    <content>note22.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-05-15T18:31:01" added="2014-05-15T18:19:40" type="html">
+    <content>note23.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-05-15T18:36:10" added="2014-05-15T18:31:01" type="html">
+    <content>note24.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

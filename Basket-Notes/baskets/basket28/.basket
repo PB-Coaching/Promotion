@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Introduction</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="alien-artifact.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-17T13:23:03" added="2009-12-25T21:15:37" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <note lastModification="2013-04-17T13:23:57" added="2013-04-17T13:23:14" type="html">
+    <content>note5.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-17T17:12:18" added="2013-04-17T13:25:48" type="html">
+    <content>note8.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2013-04-23T17:16:11" added="2013-04-23T17:12:49" type="html">
+    <content>note29.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-17T13:25:23" added="2013-04-17T13:24:02" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_1</tags>
+    </note>
+    <note lastModification="2013-04-20T18:07:51" added="2013-04-17T13:25:02" type="html">
+     <content>note7.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-23T17:15:59" added="2013-04-17T17:48:18" type="html">
+     <content>note17.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+    <note lastModification="2013-04-17T17:09:50" added="2013-04-17T17:07:42" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_8</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-23T18:30:57" added="2009-12-25T21:15:53" type="html">
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-17T17:45:37" added="2013-04-17T17:45:25" type="html">
+     <content>note15.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <note lastModification="2013-04-17T17:48:18" added="2013-04-17T17:45:37" type="html">
+     <content>note16.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+    <note lastModification="2013-04-17T18:05:36" added="2013-04-17T18:05:00" type="html">
+     <content>note18.html</content>
+     <tags>tag_state_2</tags>
+    </note>
+   </group>
+   <note lastModification="2013-04-17T18:06:52" added="2013-04-17T18:05:36" type="html">
+    <content>note19.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Liberalismus</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#bfd9ff" backgroundImage="rounds-line.png" textColor="#ffffff"/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2013-04-20T19:28:53" added="2011-11-29T14:12:07" type="html">
+    <content>note1.html</content>
+    <tags>tag_state_10</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2013-04-20T19:29:07" added="2011-11-29T14:13:51" type="html">
+     <content>note3.html</content>
+     <tags>tag_state_6</tags>
+    </note>
+    <note lastModification="2013-04-20T19:30:07" added="2013-04-20T19:29:19" type="html">
+     <content>note16.html</content>
+     <tags>tag_state_7</tags>
+    </note>
+    <group folded="false">
+     <note lastModification="2013-04-20T19:31:51" added="2013-04-20T19:30:09" type="html">
+      <content>note17.html</content>
+      <tags>tag_state_8</tags>
+     </note>
+     <note lastModification="2013-04-20T19:48:04" added="2013-04-20T19:34:06" type="html">
+      <content>note19.html</content>
+      <tags>highlight</tags>
+     </note>
+     <note lastModification="2013-04-20T19:41:42" added="2013-04-20T19:31:40" type="html">
+      <content>note18.html</content>
+      <tags>tag_state_5</tags>
+     </note>
+    </group>
+    <note lastModification="2013-04-20T19:42:25" added="2011-11-29T14:12:58" type="html">
+     <content>note2.html</content>
+    </note>
+   </group>
+   <note lastModification="2012-02-05T13:44:28" added="2011-11-29T14:25:35" type="html">
+    <content>note4.html</content>
+   </note>
+   <note lastModification="2012-01-31T13:12:03" added="2011-12-12T14:44:06" type="html">
+    <content>note5.html</content>
+   </note>
+   <note lastModification="2012-01-31T13:11:58" added="2011-12-13T14:24:19" type="html">
+    <content>note6.html</content>
+   </note>
+  </group>
+ </notes>
+</basket>

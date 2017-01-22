@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Projekte</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#e6f3ff" backgroundImage="gtd-projects.png" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="1"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2010-07-17T19:51:38" added="2007-06-08T16:17:13" type="html">
+    <content>note4.html</content>
+    <tags>highlight</tags>
+   </note>
+   <group folded="false">
+    <note lastModification="2011-11-25T21:48:52" added="2010-07-17T19:51:38" type="html">
+     <content>note6.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2011-11-22T14:50:07" added="2011-07-01T22:24:53" type="html">
+     <content>note1.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2011-11-25T21:48:53" added="2011-07-01T22:27:37" type="html">
+     <content>note8.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2011-12-16T10:08:39" added="2011-07-01T23:17:18" type="html">
+     <content>note9.html</content>
+     <tags>tag_state_5</tags>
+    </note>
+   </group>
+   <group folded="false">
+    <note lastModification="2011-11-25T21:48:43" added="2011-11-25T21:47:41" type="html">
+     <content>note2.html</content>
+     <tags>tag_state_10</tags>
+    </note>
+    <note lastModification="2011-11-25T21:48:22" added="2011-11-25T21:48:09" type="html">
+     <content>note3.html</content>
+    </note>
+   </group>
+  </group>
+ </notes>
+</basket>

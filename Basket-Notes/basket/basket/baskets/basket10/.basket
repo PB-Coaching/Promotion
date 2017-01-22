@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Russische Eliten</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#ccffcc" backgroundImage="alien-artifact.png" textColor="" />
+  <disposition mindMap="false" columnCount="1" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group>
+   <note lastModification="2009-11-16T16:45:03" type="html" added="2009-11-16T16:23:25" >
+    <content>note1.html</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2009-11-23T17:18:38" type="html" added="2009-11-16T16:32:35" >
+    <content>note2.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2009-11-23T17:03:00" type="html" added="2009-11-23T17:02:42" >
+    <content>note3.html</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2009-11-23T17:03:17" type="html" added="2009-11-23T17:03:00" >
+    <content>note4.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-23T17:05:15" type="html" added="2009-11-23T17:03:17" >
+    <content>note5.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-11-23T17:05:29" type="html" added="2009-11-23T17:05:15" >
+    <content>note6.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-23T17:07:02" type="html" added="2009-11-23T17:05:29" >
+    <content>note7.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-11-23T17:07:28" type="html" added="2009-11-23T17:07:02" >
+    <content>note8.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-23T17:10:57" type="html" added="2009-11-23T17:07:28" >
+    <content>note9.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-11-30T16:32:41" type="html" added="2009-11-23T17:08:41" >
+    <content>note10.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-23T17:15:14" type="html" added="2009-11-23T17:10:57" >
+    <content>note11.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-11-23T17:19:01" type="html" added="2009-11-23T17:18:38" >
+    <content>note12.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2009-11-23T17:32:26" type="html" added="2009-11-23T17:19:01" >
+    <content>note13.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+   <note lastModification="2009-11-30T16:49:48" type="html" added="2009-11-23T17:32:26" >
+    <content>note14.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2009-11-30T16:50:09" type="html" added="2009-11-30T16:49:48" >
+    <content>note15.html</content>
+    <tags>title</tags>
+   </note>
+   <note lastModification="2009-11-30T17:29:02" type="html" added="2009-11-30T16:50:09" >
+    <content>note16.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-01-18T17:33:01" type="html" added="2009-11-30T16:57:12" >
+    <content>note17.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-01-18T17:17:28" type="html" added="2009-11-30T17:39:34" >
+    <content>note18.html</content>
+    <tags>tag_state_2;tag_state_3</tags>
+   </note>
+   <note lastModification="2010-01-18T17:14:24" type="html" added="2010-01-18T17:14:10" >
+    <content>note19.html</content>
+    <tags>title;tag_state_3</tags>
+   </note>
+   <note lastModification="2010-01-18T17:42:59" type="html" added="2010-01-18T17:14:24" >
+    <content>note20.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2010-01-18T17:46:18" type="html" added="2010-01-18T17:28:49" >
+    <content>note21.html</content>
+    <tags>tag_state_3</tags>
+   </note>
+  </group>
+ </notes>
+</basket>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Litauen</name>
+  <icon>edit-table-cell-merge</icon>
+  <appearance backgroundColor="#ffffcc" backgroundImage="" textColor=""/>
+  <disposition free="false" mindMap="false" columnCount="2"/>
+  <shortcut action="show" combination=""/>
+  <protection key="" type="0"/>
+ </properties>
+ <notes>
+  <group width="725">
+   <note lastModification="2014-06-23T14:50:44" added="2014-06-23T14:50:26" type="html">
+    <content>note55.html</content>
+    <tags>tag_state_11</tags>
+   </note>
+   <note lastModification="2014-06-23T14:52:13" added="2014-06-23T14:50:44" type="html">
+    <content>note56.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T14:52:53" added="2014-06-23T14:52:13" type="html">
+    <content>note57.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-23T15:01:50" added="2014-06-23T14:52:53" type="html">
+    <content>note58.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-23T15:03:01" added="2014-06-23T15:01:50" type="html">
+    <content>note59.html</content>
+    <tags>tag_state_7</tags>
+   </note>
+   <note lastModification="2014-06-23T15:04:52" added="2014-06-23T15:03:01" type="html">
+    <content>note60.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T17:58:32" added="2014-06-23T17:55:47" type="html">
+    <content>note70.html</content>
+    <tags>tag_state_2</tags>
+   </note>
+   <note lastModification="2014-06-23T18:01:23" added="2014-06-23T17:58:32" type="html">
+    <content>note71.html</content>
+    <tags>tag_state_15</tags>
+   </note>
+   <note lastModification="2014-06-23T18:02:19" added="2014-06-23T18:01:23" type="html">
+    <content>note72.html</content>
+    <tags>tag_state_1</tags>
+   </note>
+   <note lastModification="2014-06-23T18:19:09" added="2014-06-23T18:02:19" type="html">
+    <content>note73.html</content>
+    <tags>tag_state_5</tags>
+   </note>
+   <note lastModification="2014-06-23T18:25:35" added="2014-06-23T18:19:09" type="html">
+    <content>note74.html</content>
+    <tags>tag_state_8</tags>
+   </note>
+  </group>
+  <group/>
+ </notes>
+</basket>

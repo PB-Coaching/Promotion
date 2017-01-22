@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE basket>
+<basket>
+ <properties>
+  <name>Website</name>
+  <icon>basket</icon>
+  <appearance backgroundColor="#e6ffcc" backgroundImage="abstract.png" textColor="" />
+  <disposition mindMap="false" columnCount="2" free="false" />
+  <shortcut combination="" action="show" />
+  <protection key="" type="0" />
+ </properties>
+ <notes>
+  <group width="349" />
+  <group/>
+ </notes>
+</basket>
