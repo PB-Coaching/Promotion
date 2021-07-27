@@ -1101,4 +1101,29 @@ abstract = "Natural gas security has been at the center of European energy polic
 @Article{,
 }
 
+@Article{Kester2021,
+  author   = {Kester, Johannes},
+  journal  = {Journal of International Relations and Development},
+  title    = {The scare behind energy security: four conceptualisations of scarcity and a never-ending search for abundance},
+  year     = {2021},
+  issn     = {1581-1980},
+  abstract = {While the number of definitions and metrics of energy security have expanded rapidly (Ang et al. 2015; Sovacool and Mukherjee 2011), surprisingly little attention has been paid to its core concern: the fear of doing without. Shortages and scarcities are the problem to be solved, hardly ever the object of study itself. Inspired by critical energy security studies and the scarcity, abundance and sufficiency literature, this paper problematises the fears behind energy security through a theoretical review that discloses not one but four conceptualisations of scarcity: shortages, absolute scarcity, relative scarcity and scarcification. Subsequently, this paper makes two arguments. First, that goal-oriented definitions of energy security tend to defend the demand and supply of existing energy systems and hence reperform its exclusions, injustices, inequality and exploitations. Second, that in order to break this cycle it is necessary to re-imagine energy security from a goal into a set of security practices that fall within larger practices of scarcification, paying special attention to the unlimited desire behind relative scarcity that drives most of these practices. The paper concludes with a call for energy security scholars to take up the politics of energy security and recognize their role in reproducing and naturalising particular scarcities.},
+  doi      = {10.1057/s41268-021-00216-0},
+  refid    = {Kester2021},
+  url      = {https://doi.org/10.1057/s41268-021-00216-0},
+}
+
+@Article{Palle,
+  author   = {Palle, Angélique and Richard, Yann},
+  journal  = {Tijdschrift voor Economische en Sociale Geografie},
+  title    = {Multilevel Governance or Scalar Clashes: Finding the Right Scale for EU Energy Policy},
+  number   = {n/a},
+  volume   = {n/a},
+  abstract = {Abstract The European energy policy is based on two major pillars: integration (of infrastructure networks, markets, standards, and policies) and transition, as set out by European climate policies and by the upcoming Green Deal. The governance model for this common EU policy and the shared energy system it supports is mostly based on multilevel governance (MLG) theories, grounded in the principle of subsidiarity. This paper questions the possibility of MLG in the field of energy, in compliance with the European subsidiarity principle. The coexistence of diverse energy models promoting different scales of reference and actors may result in ‘scalar clashes’: this hybrid model creates a chaotic status quo, disrupting the EU's transition towards renewable energy sources. Building a common European energy policy that combines the dual objectives of transition and integration does not just require upscaling energy systems, but also setting the adequate scale(s) to implement this transition.},
+  doi      = {https://doi.org/10.1111/tesg.12481},
+  eprint   = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/tesg.12481},
+  keywords = {energy transition, energy integration, European Union, multilevel governance, subsidiarity},
+  url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/tesg.12481},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
