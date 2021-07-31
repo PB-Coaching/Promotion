@@ -1098,7 +1098,18 @@ abstract = "Natural gas security has been at the center of European energy polic
   url      = {https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13155},
 }
 
-@Article{,
+@Article{Kerscher2022,
+  author   = {Selina Kerscher and Pablo Arboleya},
+  journal  = {International Journal of Electrical Power & Energy Systems},
+  title    = {The key role of aggregators in the energy transition under the latest European regulatory framework},
+  year     = {2022},
+  issn     = {0142-0615},
+  pages    = {107361},
+  volume   = {134},
+  abstract = {Future energy systems are reliant on the expansion and management of low-carbon technologies in order to reach climate goals. Impact studies of high-penetration intermittent renewable energy sources and electric vehicle (EV) integration in the distribution networks have demonstrated voltage violation and congestion issues. The role of a clustered coordination of distributed energy resources (DER) with a focus on aggregators is presented in terms of legal and techno-economic aspects. The latest European framework assigns aggregators a fundamental role in energy market liberalisation and DER integration towards carbon–neutral energy systems. Aggregator energy management strategies are examined for different DER scenarios, and analysed in the context of the actual situation of aggregators in Europe. The investigation aims to clearly depict how the new European policies of 2019 envision the future electricity network, in order to reevaluate the role of aggregators taking into account implemented concepts in the current market situation, and the status of aggregator research since 2015 up to date.},
+  doi      = {https://doi.org/10.1016/j.ijepes.2021.107361},
+  keywords = {Aggregators, Distributed energy resources, Demand response, Electricity market, Flexibility, Smart grid, Distribution network operation, Electric vehicles, Energy storage},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0142061521006001},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
